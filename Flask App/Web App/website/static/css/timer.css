@@ -1,0 +1,47 @@
+
+  
+  #mainstopwatch{
+    width: 400px;
+    height: 20vh;
+    margin:100px auto;
+    padding:60px 50px 10px;
+    text-align:center;
+    font-size: 40px;
+    
+    
+    border-radius:40px;
+    background:rgb(129, 174, 251);
+    
+  
+  }
+  
+  
+  #mainstopwatch button{
+    font-size: 16px;
+    -webkit-appearance: none;
+    border:none;
+    background-color: #56ade3;
+    color:white;
+    width: 80px;
+    height:55px;
+    justify-content: space-between;
+    transition:0.2s;
+    border-radius:40px;
+    
+  }
+  
+  #mainstopwatch button:nth-child(even){
+    background-color: rgb(242, 129, 129);
+  }
+  
+  #mainstopwatch button:last-child{
+    background-color: #95e2cf;
+  
+  }
+  #mainstopwatch button:hover{
+    background:#333;
+    color:#e0e0e0;
+    border-radius:35px;
+    
+    transition: 0.2s;
+  }

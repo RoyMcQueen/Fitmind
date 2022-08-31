@@ -1,0 +1,50 @@
+{% extends "base.html" %} {% block title %}Your Mind Athletes{% endblock %} {% block content
+%}
+<br />
+<h1 align="center">Your Mind Athletes</h1>
+
+<br />
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th style="text-align:center" scope="col">Sentiment Analysis</th>
+          </tr>
+        </thead>
+        <tbody>
+
+          {% for index,user in userdf.iterrows() %}
+          <form method="POST">
+            <tr>
+            
+             
+                <td style="text-align:center">
+
+                  <button style="-align:center" type="submit" class="btn btn-primary" name="userbutton" value="{{user['id']}}">{{ user['name'] }}</button> 
+              
+                </td>   
+         
+              
+            </tr>
+          </form>
+          {% endfor %} 
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+{% endblock %}

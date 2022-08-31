@@ -1,0 +1,121 @@
+{% extends "base.html" %} {% block title %}Login{% endblock %} {% block content
+  %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Music Player</title>
+  <!-- Load FontAwesome icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="../static/css/music.css">
+  
+
+  <!-- Load the custom CSS style file -->
+  
+</head>
+
+<br />
+<body>
+  
+
+  <div class="container text-center">
+    <div class="row">
+      <div class="col">
+        <div class="player">
+          <div class="details">
+            <div class="track-art"></div>
+            <div class="track-artist">Track Artist</div>
+            <div class="track-name">Track Name</div>
+          </div>
+          <div class="buttons">
+            <div class="prev-track" onclick="prevTrack()"><i class="fa fa-step-backward fa-2x"></i></div>
+            <div class="playpause-track" onclick="playpauseTrack()"><i class="fa fa-play-circle fa-5x"></i></div>
+            <div class="next-track" onclick="nextTrack()"><i class="fa fa-step-forward fa-2x"></i></div>
+          </div>
+          <div class="slider_container">
+            <div class="current-time"></div>
+            <input type="range" min="1" max="100" value="0" class="seek_slider" onchange="seekTo()">
+            <div class="total-duration"></div>
+          </div>
+          <div class="slider_container">
+            <i class="fa fa-volume-down"></i>
+            <input type="range" min="1" max="100" value="99" class="volume_slider" onchange="setVolume()">
+            <i class="fa fa-volume-up"></i>
+          </div>
+        </div>
+      
+      </div>
+   
+      <div class="col">
+        <center>
+         
+          
+             <br />
+          <div id="mainstopwatch">
+              <div class="mainTime">
+                  <span id="mainminute">00</span>
+                  <span id="mainsecond">00</span>
+                  <span id="milliseconds">00</span>
+
+          </div>
+          <br>
+          <button id="start" onclick="start();">Start</button>
+          <button id="stop" onclick="stop();">Stop</button>
+          <button id="reset" onclick="reset();">Reset</button>
+      </center>
+
+      </div>
+    </div>
+  </div>
+
+  <br />
+  <br />
+
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="card" style="background-color:rgb(58, 104, 183);">
+        <div class="card-body">
+          <h5 style="text-align:center" class="card-title">Music Player</h5>
+          <p style="text-align:center" class="card-text">ADD DESCRIPTION.</p>
+        
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card" style="background-color:rgb(58, 104, 183);"> 
+        <div class="card-body">
+            <h5 style="text-align:center" class="card-title">Timer</h5>
+            <p style="text-align:center" class="card-text">ADD DESCRIPTION.</p>
+    
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title></title>
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="../static/css/timer.css">
+  </head>
+  <body>
+
+
+
+      <script src="../static/js/timer.js" async defer></script>
+  </body>
+
+
+  <!-- Load the main script for the player -->
+  <script src="../static/script.js"></script>
+</body>
+</html>
+
+
+{% endblock %}

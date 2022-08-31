@@ -1,0 +1,1002 @@
+Situation,Automatic Thoughts,Emotions/Feelings,Distress,Sent_Negatve,Sent_Neutral,Sent_Positive
+my boss called me,I thought I did something wrong. Why do I always think like this?,Anxious,7,0.96224815,0.034971107,0.0027807944
+situation,I didn't do very well at dieting.,emotion,distress,0.9200814,0.07281402,0.0071047065
+situation,That I don't have enough willpower.,emotion,distress,0.6607678,0.31738245,0.021849781
+situation,That I can't lose weight.,emotion,distress,0.6691511,0.31203657,0.01881226
+situation,That i'll always be fat and unhealthy,emotion,distress,0.9063256,0.08567258,0.008001873
+situation,I've been dieting but still gained a pound.,emotion,distress,0.4837913,0.47072616,0.045482595
+situation,disappointed,emotion,distress,0.8419006,0.14321719,0.014882275
+situation,I would try eat better and change my workout or workout more.,emotion,distress,0.0103768315,0.5038397,0.48578346
+situation,That I'll never get this assignment done.,emotion,distress,0.9226987,0.07122317,0.0060781226
+situation,That I might lose my job,emotion,distress,0.9291603,0.066893205,0.003946382
+situation,That I can't pay my bills,emotion,distress,0.86621803,0.124132335,0.009649685
+situation,That I'll lose my house,emotion,distress,0.8906839,0.101839505,0.007476614
+situation,I've haven't been able to think of anything to write for the past 2 hours.,emotion,distress,0.93075776,0.0642424,0.004999886
+situation,frustrated,emotion,distress,0.743616,0.22461607,0.03176799
+situation,I would go for a walk or something and then try again.,emotion,distress,0.011994603,0.79442704,0.19357832
+situation,That nobody would like me.,emotion,distress,0.8124328,0.17701852,0.010548702
+situation,I would be an outcast.,emotion,distress,0.78398025,0.20314512,0.012874667
+situation,is something wrong with me?,emotion,distress,0.82245344,0.17094834,0.0065982426
+situation,I met someone at a party who was very short with me and then walked away.,emotion,distress,0.50222826,0.4620045,0.03576718
+situation,insecure,emotion,distress,0.29693142,0.63467854,0.06838999
+situation,I would try to forget it and find others to talk to.,emotion,distress,0.06341697,0.7125475,0.2240355
+situation,He shouldn't have taken it without asking me first.,emotion,distress,0.5069144,0.4785425,0.014543093
+situation,It would mean that I can't trust him,emotion,distress,0.86625177,0.12997687,0.0037713978
+situation,It would make our relationship worse.,emotion,distress,0.95655644,0.041129574,0.0023139033
+situation,I couldn't find my bank card and realized my husband must have taken it.,emotion,distress,0.7010762,0.28405103,0.01487277
+situation,frustrated,emotion,distress,0.743616,0.22461607,0.03176799
+situation,I would confront him about it.,emotion,distress,0.30835548,0.66590554,0.025738982
+situation,Is he mad at me?,emotion,distress,0.42082354,0.55985206,0.019324364
+situation,I didn't do anything wrong,emotion,distress,0.2552598,0.6530665,0.09167372
+situation,some other reason he doesn't like me,emotion,distress,0.78350395,0.2081519,0.008344199
+situation, I waved at an acquaintance but got no response.,emotion,distress,0.43357822,0.5275835,0.038838297
+situation,confused,emotion,distress,0.6150347,0.35655966,0.028405616
+situation,maybe ask a mutual friend if they know anything,emotion,distress,0.055226374,0.89954627,0.045227356
+situation,Communication worries,emotion,distress,0.6609373,0.32225078,0.016811829
+situation,It would mean that I am not a very good person when it comes to talking to others.,emotion,distress,0.9102636,0.08548179,0.0042545972
+situation,It would mean that I need to develop myself in that direction,emotion,distress,0.010002129,0.62907845,0.36091945
+situation,I normally don't interact a ton with my coworkers so this decision is kind of foreign to me.,emotion,distress,0.6647187,0.32050684,0.014774498
+situation,Akwardness,emotion,distress,0.6209997,0.35390452,0.025095835
+situation,I would try to convince myself to talk to the person.,emotion,distress,0.080606356,0.8575553,0.06183827
+situation,I have nothing to draw upon,emotion,distress,0.49462503,0.48329356,0.022081425
+situation,I have no experiences to pull from,emotion,distress,0.71946514,0.26883996,0.011694961
+situation,I need to learn more,emotion,distress,0.35411885,0.572673,0.073208176
+situation,I need a change of pace,emotion,distress,0.095416576,0.7743871,0.13019633
+situation,I am trying to write but I have a block and cant think of anything to put on my page.,emotion,distress,0.7819509,0.20059416,0.017454939
+situation,frustration ,emotion,distress,0.5556532,0.39158875,0.052758064
+situation,I would stop trying and read some other book to gain inspiration ,emotion,distress,0.13805974,0.5907036,0.27123666
+situation,Worry about ability to survive,emotion,distress,0.42446274,0.5340396,0.041497596
+situation,Lack of monetary income,emotion,distress,0.669797,0.31436625,0.015836727
+situation,It would mean that I am not a good person in society.,emotion,distress,0.9580693,0.039709374,0.002221288
+situation,It would mean that I failed in life.,emotion,distress,0.90938604,0.08632594,0.004288055
+situation,I've been called for the third time this week explained that the position I've applied to has been filled.,emotion,distress,0.026718793,0.774559,0.19872224
+situation,Failure,emotion,distress,0.6399966,0.31340963,0.0465938
+situation,I would continue with the job search and try new things.,emotion,distress,0.0064347866,0.44396096,0.54960424
+situation,Lack of livelihood to support myself.,emotion,distress,0.7763111,0.20972402,0.013964873
+situation,because it would mean that I could not live the way I wanted.,emotion,distress,0.80933994,0.18205391,0.008606124
+situation,I would have no where to live.,emotion,distress,0.82875234,0.1576889,0.0135587305
+situation,It would mean that I would be homeless.,emotion,distress,0.75737786,0.23022515,0.012397037
+situation,It would mean that I am a failure in life.,emotion,distress,0.9484259,0.04877723,0.0027969438
+situation,"I quit my job in order to find one that could pay more, I had been at the job for many years and the loss of it made me feel like someone had kicked the table out from under me.",emotion,distress,0.6896298,0.27641922,0.033950925
+situation,Worry,emotion,distress,0.44854128,0.4992249,0.052233804
+situation,Earn money from other means and attempt to find a better job.,emotion,distress,0.13717923,0.6693751,0.1934456
+situation,Loneliness ,emotion,distress,0.60728014,0.35833964,0.03438025
+situation,It would mean that I an insecure about my relations,emotion,distress,0.7231982,0.2690476,0.0077542895
+situation,It would mean that I would have to devote myself to bettering that aspect of myself.,emotion,distress,0.045239344,0.5989383,0.35582238
+situation,I ran into an acquaintance and tried to greet them but they did not respond.,emotion,distress,0.36303803,0.5663151,0.070646845
+situation,akwardness,emotion,distress,0.3690168,0.5583997,0.0725835
+situation,I would stop trying to get the acquaintance's attention ,emotion,distress,0.42343313,0.52313924,0.053427644
+situation,I can't do this. I'm worthless.,emotion,distress,0.96943754,0.02715596,0.003406554
+situation,It would say that I can't get motivated and I am a failure. It shouldn't be this hard for me to come up with something for my essay.,emotion,distress,0.86040103,0.12646234,0.013136563
+situation,I am unable to write my essay. I'm having brain fog.,emotion,distress,0.9660421,0.030245615,0.0037123668
+situation,unmotivated,emotion,distress,0.7049436,0.27035147,0.02470493
+situation,I would focus and try to put together some ideas in a brainstorm session and then turn them into words.,emotion,distress,0.008175111,0.7297361,0.26208887
+situation,I should be able to find more time for my family if I loved them,emotion,distress,0.0746062,0.37068677,0.55470705
+situation,I should have planned my time better to make room for my family's visit. They were always there for me.,emotion,distress,0.059297696,0.40372333,0.53697896
+situation,I am selfish and only focused on my own goals/leisure. I need to make changes to support my family.,emotion,distress,0.5841085,0.36020586,0.055685714
+situation,I was too busy for my family's visit and they were upset by this.,emotion,distress,0.8904789,0.1042007,0.005320404
+situation,guilty,emotion,distress,0.415411,0.5072345,0.0773545
+situation,Apologize and try to plan something together with them.,emotion,distress,0.055788677,0.8258024,0.118408926
+situation,I can't even do my job right!,emotion,distress,0.9444131,0.04924775,0.0063390536
+situation,It would mean that I feel I am not good at anything. I've been working here for 6 months and I can't get it right. ,emotion,distress,0.9609598,0.035406172,0.003634028
+situation,"I need to find a job, how am I going to pay my bills? It would make me feel worthless.",emotion,distress,0.944063,0.050117258,0.0058196792
+situation,I have been unable to sell vehicles and it lead me to lose my job.,emotion,distress,0.96350944,0.034660604,0.0018299301
+situation,worthless,emotion,distress,0.77534914,0.19688693,0.027763974
+situation,"I would try to work with my manager to see if they'd give me another shot, otherwise I would take unemployment courses on how to be a better salesperson and look for another job.",emotion,distress,0.14519256,0.7392187,0.11558874
+situation,There's something I did wrong that lead her to leave.,emotion,distress,0.82514095,0.1697091,0.005149955
+situation,I was unable to keep my relationship afloat.,emotion,distress,0.8911166,0.10285291,0.0060305567
+situation,My partner is leaving me and there is nothing I can to do change it.,emotion,distress,0.89282787,0.10209633,0.00507583
+situation,heartbreaking,emotion,distress,0.81808656,0.16114907,0.020764379
+situation,She said there is nothing to do. I'd prefer to not waste my energy and grant her wish.,emotion,distress,0.26417094,0.62568593,0.1101432
+situation,This person is not my boss and is not even providing accurate information! Why are they acting like this?,emotion,distress,0.9729936,0.025354777,0.0016515275
+situation,I probably worded that thought poorly... but if the argument was valid it would make me feel incompetent as a supervisor of my team.,emotion,distress,0.87408674,0.11711834,0.008794896
+situation,I was yelled at by the manager of another department for not following a procedure (that was actually not a part of our process).,emotion,distress,0.8407305,0.1497005,0.00956901
+situation,anger,emotion,distress,0.38028437,0.46144688,0.15826876
+situation,I would speak to MY manager to see how I can improve on these issues.,emotion,distress,0.049510136,0.791009,0.15948091
+situation,i got a no for answer ,emotion,distress,0.50573695,0.4286836,0.06557946
+situation,because i really wanted to go on a date with that person,emotion,distress,0.013231823,0.30687106,0.6798972
+situation,my date plan wasnt successful ,emotion,distress,0.8760006,0.11530898,0.0086904755
+situation,sad,emotion,distress,0.7283445,0.22596292,0.045692593
+situation,wait for the perfect time ,emotion,distress,0.036847934,0.41033128,0.5528208
+situation,i hurt my family ,emotion,distress,0.94580925,0.049035445,0.0051553464
+situation,because you dont hurt family ,emotion,distress,0.3142446,0.5861994,0.099556
+situation,i hurt my family by asking them not to come to visit me ,emotion,distress,0.94166815,0.05463357,0.0036982966
+situation,surprised,emotion,distress,0.009861546,0.16791996,0.8222184
+situation,appologize ,emotion,distress,0.27819136,0.60084504,0.1209636
+situation,that i lost my job ,emotion,distress,0.8295662,0.156155,0.014278771
+situation,i wouldnt be able to support my family ,emotion,distress,0.92363286,0.069668844,0.0066982466
+situation,i got fired ,emotion,distress,0.69539356,0.27312133,0.03148509
+situation,dissapointed ,emotion,distress,0.69587845,0.27717412,0.02694737
+situation,try harder ,emotion,distress,0.16877897,0.67038405,0.16083705
+situation,somebody else got it ,emotion,distress,0.33721125,0.5655227,0.097266085
+situation,"yes, it would be upseting. It would means that my skills were not enough for the job ",emotion,distress,0.90076137,0.092292204,0.006946373
+situation,Because other did better than me ,emotion,distress,0.1344082,0.427783,0.43780872
+situation,that i am not good ,emotion,distress,0.91933984,0.07083745,0.0098227495
+situation,i got a no from a job i applied ,emotion,distress,0.7742125,0.20965752,0.016129946
+situation,sad,emotion,distress,0.7283445,0.22596292,0.045692593
+situation,fix my resume ,emotion,distress,0.45842123,0.46131822,0.0802605
+situation,I made my sister sad,emotion,distress,0.9285916,0.066459365,0.0049490607
+situation,because I should have behaved differently ,emotion,distress,0.5829301,0.39269805,0.024371844
+situation,"Las week my sister and I facetime. I didnt show much interest. Later that day, my cousin told me that my sister was sad because of my behavior. ",emotion,distress,0.8057691,0.18270518,0.011525751
+situation,sad,emotion,distress,0.7283445,0.22596292,0.045692593
+situation,try to call her and appologize. ,emotion,distress,0.14239676,0.7984375,0.059165776
+situation,I don't think I can get all my work done today.,emotion,distress,0.93941075,0.05554184,0.0050474103
+situation,I have a lot of work to take care of.,emotion,distress,0.57881105,0.38357824,0.037610777
+situation,I won't get all of my work done.,emotion,distress,0.83544165,0.15248139,0.012076938
+situation,I could get fired.,emotion,distress,0.81656444,0.17164409,0.011791575
+situation,I could lose my home.,emotion,distress,0.8820762,0.10913424,0.008789599
+situation,My boss talked to me today on my coffee break.,emotion,distress,0.005715374,0.4966505,0.49763408
+situation,Nervous,emotion,distress,0.4675538,0.48777062,0.04467561
+situation,Talk to my boss.,emotion,distress,0.10745166,0.8107509,0.08179739
+situation,She doesn't like the way I look.,emotion,distress,0.76363283,0.2275185,0.008848678
+situation,I don't find myself very attractive.,emotion,distress,0.9242714,0.069703855,0.0060247737
+situation,I have a big nose and big ears which doesn't make me look good.,emotion,distress,0.9496584,0.044735786,0.005605849
+situation,I asked a co-worker out today but she said no.,emotion,distress,0.41701636,0.5646131,0.01837044
+situation,disappointed,emotion,distress,0.8419006,0.14321719,0.014882275
+situation,Nothing,emotion,distress,0.30227673,0.56760937,0.13011387
+situation,I can't lose the weight I want.,emotion,distress,0.6943198,0.28095305,0.024727158
+situation,I am eating too much food.,emotion,distress,0.88556087,0.10504027,0.009398873
+situation,I don't have the discipline to diet.,emotion,distress,0.79943824,0.18949606,0.011065692
+situation,I have poor willpower.,emotion,distress,0.9065903,0.08375858,0.009651146
+situation,I am trying to diet but I gained weight this week.,emotion,distress,0.5571382,0.4059266,0.03693523
+situation,Depressed.,emotion,distress,0.6600227,0.30791768,0.032059696
+situation,Go off of the diet.,emotion,distress,0.33491474,0.6271174,0.037967913
+situation,He doesn't think I am interesting.,emotion,distress,0.6694354,0.30373183,0.026832797
+situation,I don't know enough things to talk about.,emotion,distress,0.7801658,0.20729654,0.012537615
+situation,I am not very smart.,emotion,distress,0.9151384,0.077075034,0.007786517
+situation,I only had average grades in high school.,emotion,distress,0.416584,0.52682656,0.056589425
+situation,I tried to have a conversation with someone at a party but he walked away.,emotion,distress,0.5021843,0.47253847,0.025277259
+situation,Sad,emotion,distress,0.6989043,0.26401702,0.037078775
+situation,Leave the party.,emotion,distress,0.46616632,0.5047357,0.02909801
+situation,I don't want her to leave home.,emotion,distress,0.74194336,0.2482595,0.009797127
+situation,I will miss the things we do together.,emotion,distress,0.37410784,0.44089553,0.18499658
+situation,We have lots of fun together.,emotion,distress,0.002182366,0.018580418,0.9792372
+situation,I have a great relationship with my daughter.,emotion,distress,0.0014421771,0.01467927,0.9838786
+situation,I love my daughter.,emotion,distress,0.0032674912,0.012949222,0.9837833
+situation,My daughter told me what college she wanted to go to.,emotion,distress,0.038838696,0.8829885,0.07817281
+situation,Sadness,emotion,distress,0.82124853,0.16204283,0.01670862
+situation,Hug my daughter.,emotion,distress,0.03928718,0.4225059,0.53820693
+situation,She doesn't think I am worth going out with.,emotion,distress,0.7928802,0.1973502,0.009769674
+situation,I wasn't good enough for her.,emotion,distress,0.7396008,0.24131282,0.019086435
+situation,I would think that I am unattractive.,emotion,distress,0.9585265,0.038365975,0.0031075913
+situation,No one would want to date me.,emotion,distress,0.84489805,0.14635944,0.008742568
+situation,I would be alone forever.,emotion,distress,0.77156067,0.21298932,0.015450046
+situation,A coworker that I like tells me they are too busy to go out with me.,emotion,distress,0.26929763,0.56401646,0.16668586
+situation,Hurt,emotion,distress,0.7187393,0.25593245,0.02532824
+situation,I would get an unbiased opinion on my attractiveness and then fix what I could.,emotion,distress,0.1105787,0.7677802,0.1216411
+situation,I need self discipline.,emotion,distress,0.31841105,0.635939,0.04564994
+situation,I am not controlling my own thoughts and actions.,emotion,distress,0.4032616,0.5685764,0.028162083
+situation,I would be unable to get any difficult task completed.,emotion,distress,0.88717437,0.10719514,0.0056305765
+situation,I would miss out on promotions and raises at work.,emotion,distress,0.57015103,0.37759417,0.052254755
+situation,I would be stuck where I am.,emotion,distress,0.7777695,0.20554744,0.016683102
+situation,I have been trying to write an essay for two hours.,emotion,distress,0.58842456,0.37744075,0.03413474
+situation,Pissed,emotion,distress,0.81261253,0.16475396,0.022633536
+situation,"I would buckle down, get my mind right and finish the damned essay.",emotion,distress,0.6052819,0.34998626,0.04473187
+situation,I can now look for a job I like.,emotion,distress,0.014317641,0.25172907,0.73395336
+situation,I was fired from my first sales job for not meeting my quotas.,emotion,distress,0.8981281,0.0958104,0.0060614683
+situation,relief,emotion,distress,0.058404665,0.73277634,0.20881909
+situation,I would go look for a job that I was better suited for.,emotion,distress,0.07846505,0.63687205,0.28466293
+situation,I am unable to do this simply damned thing.,emotion,distress,0.97632366,0.02136317,0.0023131585
+situation,I am incompetent.,emotion,distress,0.9425435,0.050563596,0.0068929316
+situation,That I am an idiot and can't do anything right.,emotion,distress,0.97046566,0.02684876,0.0026856465
+situation,I will fail at everything in life.,emotion,distress,0.9384372,0.055177417,0.0063853324
+situation,I will never be happy.,emotion,distress,0.96957177,0.026851168,0.0035770268
+situation,Threw a conniption when unable to complete an Amigurumi project for my niece.   ,emotion,distress,0.7296816,0.2523742,0.017944157
+situation,Anger,emotion,distress,0.69911236,0.26988634,0.031001316
+situation,Go back to the beginning of the pattern and start again making sure I do everything correctly.,emotion,distress,0.042405333,0.7326426,0.22495218
+situation,I want friends so I won't be lonely.,emotion,distress,0.08519161,0.4687142,0.44609413
+situation,If I am unlikeable then I won't have friends and will be alone all my life.,emotion,distress,0.9247079,0.0713565,0.003935563
+situation,They don't like me enough to wave back,emotion,distress,0.77017725,0.21536216,0.014460644
+situation,I may be unlikeable.,emotion,distress,0.8544761,0.13826968,0.0072542615
+situation,"while walking down the street I see someone I know, wave at them and they don't acknowledge my wave.",emotion,distress,0.21831772,0.6890859,0.09259643
+situation,Disappointment,emotion,distress,0.8595668,0.12240468,0.018028492
+situation,I would try to make better impressions on people I meet.,emotion,distress,0.010084386,0.3537985,0.63611704
+situation,I am trying to lose weight but nothing works.,emotion,distress,0.7734478,0.20714837,0.019403754
+situation,I would mean that even though I am trying to diet I do not have the self control to lose any weight. ,emotion,distress,0.57192475,0.3966384,0.031436868
+situation,I have e been trying a number of diets and have been hitting one diet very hard. At the end of the week I weighed myself and found out I had gained a pound.,emotion,distress,0.50940126,0.43221295,0.05838578
+situation,Frustrated,emotion,distress,0.8021976,0.17753057,0.020271935
+situation,I would continue on with the diet and eliminate anything that was not on the diet and try to exercise more.,emotion,distress,0.060235754,0.80372053,0.13604367
+situation,I tried to let them know I would be to busy to see them during their visit.,emotion,distress,0.37443477,0.58191806,0.043647166
+situation,It would be upsetting because I tried to do the right thing,emotion,distress,0.79492164,0.1919432,0.013135191
+situation,I was honest about my time and they still did not appreciate it.,emotion,distress,0.7618273,0.22622123,0.011951548
+situation,Some family members have been planning a visit for the past six months. I asked them to postpone their trip because I knew I was going to busy. Later I found out that they were very hurt.,emotion,distress,0.7789487,0.20733327,0.013717978
+situation,Anger,emotion,distress,0.69911236,0.26988634,0.031001316
+situation,I would try to reach and and explain why I would have been to busy and to reschedule their visit.,emotion,distress,0.23997952,0.73203915,0.027981302
+situation,The position is filled before I have a chance.,emotion,distress,0.42717758,0.53891987,0.033902574
+situation,It would mean that I am not even worth interviewing and I would be frustrated and upset.,emotion,distress,0.9649962,0.03326502,0.0017387316
+situation,I have applied to many jobs but I keep getting call after call that the position has been filled.,emotion,distress,0.37729916,0.5574485,0.06525234
+situation,Frustrated,emotion,distress,0.8021976,0.17753057,0.020271935
+situation,I would keep applying for jobs and hope I eventually got an interview.,emotion,distress,0.034002945,0.6330675,0.33292958
+situation,The person does not feel like I am worth talking to.,emotion,distress,0.9042298,0.091835245,0.0039349617
+situation,I would mean that people see me as a boring and unintelligent person. It would make me feel sad that someone did not feel it was worth their time to have a real conversation ,emotion,distress,0.9469608,0.04845246,0.004586712
+situation,I am at a party where I only know the host. I strike up a conversation with someone but he only gives me one word answers and then walks away.,emotion,distress,0.57990766,0.3759756,0.04411671
+situation,Sad,emotion,distress,0.6989043,0.26401702,0.037078775
+situation,I would try to shrug it off and see if I could find anyone else at the party who wanted to chat.,emotion,distress,0.03753241,0.831693,0.13077454
+situation,My mother in law thinks I am an incompetent father.,emotion,distress,0.93857604,0.05850234,0.0029215955
+situation,I take care to watch my daughter and she has never been hurt under my watch. I generally resent being told that I am doing a bad job raising my children.,emotion,distress,0.59049124,0.33903185,0.070476905
+situation,It would mean that I take criticism of my parenting skills personally ,emotion,distress,0.68764967,0.29857886,0.013771472
+situation,I know how to watch my kids and do not need anyone reminding me how to do it.,emotion,distress,0.2594761,0.6010481,0.13947582
+situation,"At dinner my mother in law kept trying to tell me how to watch my daughter and was being condensending, I finally got angry and told her to mind her own business.",emotion,distress,0.9229067,0.0728328,0.0042604865
+situation,Anger,emotion,distress,0.69911236,0.26988634,0.031001316
+situation,I would eventually apologize for my outburst but remind her gently that I do not appreciate her nagging.,emotion,distress,0.66732657,0.3126877,0.019985726
+situation,That person is probably lying and doesn't like me.,emotion,distress,0.9595655,0.038395442,0.002039055
+situation,Maybe something is unlikable about me.,emotion,distress,0.9639018,0.034016322,0.0020818738
+situation,I won't be successful at making friends.,emotion,distress,0.7996903,0.18550432,0.014805429
+situation,I will live a lonely life.,emotion,distress,0.64733607,0.318931,0.033732947
+situation,I offer to make plans with a coworker but they say they are too busy to hang out with me.,emotion,distress,0.47134674,0.4904012,0.03825198
+situation,rejection,emotion,distress,0.42391858,0.49152187,0.08455956
+situation,try and present myself as more interesting to people,emotion,distress,0.018064085,0.32936105,0.65257484
+situation,I must not be doing this diet thing right.,emotion,distress,0.89523166,0.09797904,0.0067893085
+situation,I won't be successful at losing weight.,emotion,distress,0.75809926,0.22578594,0.016114809
+situation,I will feel bad about my appearance.,emotion,distress,0.9155909,0.07915161,0.0052574724
+situation,It will affect my attitude negatively.,emotion,distress,0.9425349,0.054305747,0.00315931
+situation,I've been trying hard all week to lose weight and I find out I actually gained a pound.,emotion,distress,0.4378556,0.47337177,0.08877263
+situation,hopeless,emotion,distress,0.32669324,0.60414696,0.06915982
+situation,Try a different diet for next week.,emotion,distress,0.046686348,0.8906011,0.06271251
+situation,I must not be good at persuading people.,emotion,distress,0.87567323,0.11695022,0.0073765097
+situation,I will get pushed around in life.,emotion,distress,0.6853904,0.29873148,0.01587811
+situation,I won't get the relationships I want with others.,emotion,distress,0.60920334,0.36224848,0.02854817
+situation,I'll be constantly disappointed with life.,emotion,distress,0.9638481,0.03222836,0.003923556
+situation,I was a car salesman for six months but was fired for not selling enough cars.,emotion,distress,0.87793696,0.11511135,0.006951762
+situation,frustration,emotion,distress,0.5709473,0.36281443,0.066238254
+situation,Read self-help books.,emotion,distress,0.07711891,0.78952104,0.13336006
+situation,I am miserable because I have such a hard time saying no.,emotion,distress,0.9518124,0.041790053,0.0063976413
+situation,I will continue to get stuck in situations I don't feel good about.,emotion,distress,0.92575574,0.06958109,0.0046631987
+situation,I won't be very happy with many outcomes in my life.,emotion,distress,0.9522733,0.04462265,0.0031040756
+situation,I will feel helpless in controlling how my life turns out.,emotion,distress,0.8876359,0.10661214,0.0057520005
+situation,A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy.,emotion,distress,0.8452481,0.13514188,0.019610098
+situation,bullied,emotion,distress,0.69529295,0.28482732,0.019879729
+situation,Next time I will say No and tell him that I didn't enjoy the last movie I was bullied into going to.,emotion,distress,0.9043518,0.09008655,0.005561657
+situation,He must not be as nice as I thought because he snubbed me.,emotion,distress,0.92959636,0.06576339,0.004640275
+situation,I probably don't accurately perceive people when I first meet them.,emotion,distress,0.85491997,0.13865797,0.006422061
+situation,I am at risk of making bad friendship choices.,emotion,distress,0.9213786,0.07478494,0.0038363638
+situation,I will continue to get hurt and attached to unhealthy people.,emotion,distress,0.97574925,0.022142384,0.0021084193
+situation,I wave to an acquaintance I see on the street and do not get any response.,emotion,distress,0.49270067,0.4800156,0.027283667
+situation,annoyed,emotion,distress,0.77359766,0.20160803,0.02479438
+situation,Make no more effort to interact with this person.,emotion,distress,0.8305056,0.16057803,0.008916403
+situation,I'm not succeeding,emotion,distress,0.81951886,0.16844377,0.012037436
+situation,I will be fat forever,emotion,distress,0.6701316,0.2772879,0.052580476
+situation,I won't be attractive,emotion,distress,0.9214601,0.072404906,0.006134947
+situation,People won't like me,emotion,distress,0.91467583,0.080092415,0.005231719
+situation,My wife might become less attracted to me,emotion,distress,0.685811,0.2977099,0.016479079
+situation,I might lose my wife,emotion,distress,0.8907246,0.10158055,0.0076948395
+situation,I could be alone,emotion,distress,0.3641376,0.56952477,0.06633767
+situation,I gained a little weight while trying to diet,emotion,distress,0.3363996,0.6115509,0.052049413
+situation,disappointed,emotion,distress,0.8419006,0.14321719,0.014882275
+situation,I would try harder to lose weight,emotion,distress,0.11660491,0.7557355,0.12765959
+situation,I'm not good enough to my family,emotion,distress,0.9636221,0.033038538,0.0033393512
+situation,I haven't done what is right for my family,emotion,distress,0.7923218,0.19727758,0.010400604
+situation,I hurt my family's feelings when I asked them to postpone visiting me again.,emotion,distress,0.9583503,0.039734755,0.0019150132
+situation,ashamed,emotion,distress,0.7127552,0.26412392,0.023120878
+situation,I would try to change my plans and invite them,emotion,distress,0.036785945,0.7926609,0.17055318
+situation,I'm never going to get a job,emotion,distress,0.88025063,0.10873848,0.011010932
+situation,I might lose my house and my family,emotion,distress,0.9404739,0.05510512,0.004420919
+situation,I didn't get the job I applied for,emotion,distress,0.85944253,0.1304018,0.010155654
+situation,disappointed,emotion,distress,0.8419006,0.14321719,0.014882275
+situation,I would apply for more jobs,emotion,distress,0.0082728965,0.30090627,0.6908208
+situation,I'm going to be alone,emotion,distress,0.7395144,0.23902015,0.021465398
+situation,I won't find anyone else to love me,emotion,distress,0.34341785,0.5014788,0.15510333
+situation,I won't be able to live a happy life,emotion,distress,0.80932283,0.16022357,0.03045352
+situation,My wife has left me,emotion,distress,0.6717904,0.31211954,0.016090082
+situation,afraid,emotion,distress,0.4739657,0.4900212,0.03601314
+situation,I would try to move on and rebound,emotion,distress,0.037919853,0.68246686,0.2796132
+situation,This sadness wasn't as bad as it will be when it happens for real.,emotion,distress,0.47373584,0.43014115,0.096122965
+situation,This sadness will be drawn out for much longer,emotion,distress,0.84989136,0.14099026,0.009118298
+situation,I'm not going to get to start to recover for a long time. This is agonizing.,emotion,distress,0.9471656,0.047140162,0.0056941737
+situation,"My dad has stage four lung cancer and it took a very bad turn. For a few days it looked like he would die. I spent days grieving. When he began to recover, and it was obvious that he would be coming home again, I realized that I would have to go through this emotional turmoil again when the time comes when he really approaches the end.",emotion,distress,0.91506046,0.07516617,0.009773372
+situation,sad,emotion,distress,0.7283445,0.22596292,0.045692593
+situation,Try to carry on and hope for a miracle.,emotion,distress,0.014252002,0.47378525,0.5119627
+situation,I worked so hard and got nothing. ,emotion,distress,0.6776605,0.26207903,0.06026039
+situation,I would need to work harder.,emotion,distress,0.5443577,0.43548074,0.020161584
+situation,review my eating and recount calories,emotion,distress,0.18232332,0.7818701,0.035806525
+situation,I gained a pound after dieting for a week. ,emotion,distress,0.52506775,0.4162117,0.058720578
+situation,frustration,emotion,distress,0.5709473,0.36281443,0.066238254
+situation,evaluate foods and reread the diet plan,emotion,distress,0.12810545,0.83397627,0.0379182
+situation,I need to get better at this. ,emotion,distress,0.21088685,0.51982015,0.26929298
+situation,I might be incompetent at this task. ,emotion,distress,0.9031497,0.08979553,0.007054777
+situation,I could get really frustrated.,emotion,distress,0.91980714,0.07425911,0.005933835
+situation,my behavior might be unacceptable. ,emotion,distress,0.9304043,0.0630423,0.006553445
+situation,I could get judged harshly for my behavior. ,emotion,distress,0.86390215,0.12942772,0.0066701937
+situation,Putting together sentences.,emotion,distress,0.16703592,0.68221384,0.1507502
+situation,annoyed,emotion,distress,0.77359766,0.20160803,0.02479438
+situation,calm down and refocus,emotion,distress,0.11919701,0.7291012,0.15170187
+situation,"marriage is forever, which means not quitting when it's difficult",emotion,distress,0.045132015,0.46746317,0.48740485
+situation,I believed in the commitment and he did not. ,emotion,distress,0.31263912,0.5661499,0.12121098
+situation,I was foolish to commit,emotion,distress,0.8411609,0.1467512,0.012087991
+situation,"marriage is really an illusion, not a sacred vow",emotion,distress,0.6516509,0.3310114,0.01733765
+situation,not everyone believes in religion as much as I do,emotion,distress,0.3507671,0.6117957,0.037437182
+situation,My spouse has left and the decision is final. ,emotion,distress,0.16034745,0.78689045,0.0527621
+situation,blindsided,emotion,distress,0.4311238,0.5100661,0.058810122
+situation,question faith,emotion,distress,0.18759608,0.75823575,0.054168202
+situation,Why does she always do this?,emotion,distress,0.84524053,0.1477392,0.0070203263
+situation,She is not listening to me. ,emotion,distress,0.8559549,0.13595621,0.0080888495
+situation,I can't get what I need form her. ,emotion,distress,0.6490887,0.32111272,0.029798552
+situation,Similar situations will repeat in the future damaging our relationship. ,emotion,distress,0.7848587,0.20393533,0.01120594
+situation,I was sharp with my mother. ,emotion,distress,0.102295384,0.7738303,0.12387438
+situation,angry,emotion,distress,0.7658094,0.194679,0.039511666
+situation,remain calm and remind her of repeated behavior ,emotion,distress,0.35626382,0.60280347,0.040932775
+situation,maybe he did not see me,emotion,distress,0.36887106,0.6017343,0.02939462
+situation,I would wonder if I was being avoided. ,emotion,distress,0.34811354,0.6148358,0.037050605
+situation,I might not be likable,emotion,distress,0.8821351,0.10818565,0.009679257
+situation,I would be isolated from people. ,emotion,distress,0.7162771,0.2646584,0.019064493
+situation,I would become a hermit.,emotion,distress,0.92257434,0.07320709,0.0042185634
+situation,you wave to an acquaintance and get no response,emotion,distress,0.5595836,0.41465443,0.025761917
+situation,surprised,emotion,distress,0.009861546,0.16791996,0.8222184
+situation,Ask him if he saw me when he was walking. ,emotion,distress,0.118379794,0.82819235,0.053427894
+situation,I am going to fail this assignment,emotion,distress,0.964649,0.031195324,0.0041557504
+situation,I may do poorly in the class,emotion,distress,0.9142099,0.08103219,0.0047579394
+situation,I may end up doing poorly in school this semester,emotion,distress,0.95996535,0.037388064,0.002646587
+situation,I am having a lot of trouble writing my essay,emotion,distress,0.91917217,0.07556519,0.005262649
+situation,Frustrated,emotion,distress,0.8021976,0.17753057,0.020271935
+situation,I would take a break and try to buckle down a little bit later when I am refreshed,emotion,distress,0.012157728,0.69702464,0.29081762
+situation,"They were really looking forward to visiting, I think I disappointed them",emotion,distress,0.7788706,0.18782614,0.033303272
+situation,They may not want to visit me in the future,emotion,distress,0.7715919,0.22036842,0.008039692
+situation,My relationship with them may deteriorate,emotion,distress,0.9491071,0.048983663,0.0019092341
+situation,I may be very lonely,emotion,distress,0.7775473,0.2086469,0.013805712
+situation,"My family wanted to visit me, but I asked them to postpone the trip, making them upset. ",emotion,distress,0.7770553,0.20916313,0.01378151
+situation,Guilty,emotion,distress,0.36147454,0.56557673,0.07294872
+situation,I would quickly try to reschedule and make it up to them,emotion,distress,0.01926135,0.6829313,0.29780734
+situation,I am not good enough for any of these jobs,emotion,distress,0.9454452,0.049236007,0.0053187627
+situation,I am going to be a failure in life,emotion,distress,0.9641657,0.031920902,0.0039133728
+situation,I am not going to make enough money to support myself and let myself down,emotion,distress,0.9305814,0.062032558,0.007385934
+situation,I have been turned down for a job for the third time this week,emotion,distress,0.94700634,0.049592074,0.0034015097
+situation,Downhearted,emotion,distress,0.59931487,0.36914116,0.031543944
+situation,I would try to set my sights a little bit lower and take a less prestigious job. ,emotion,distress,0.3109792,0.5815937,0.107427105
+situation,Why can't they cooperate on this?,emotion,distress,0.6713075,0.31640664,0.012285808
+situation,They are making the plans difficult for me,emotion,distress,0.8530654,0.14034161,0.006592946
+situation,My friend might be disappointed in what was planned,emotion,distress,0.7306859,0.26127917,0.008034985
+situation,My friend was depending on me and I let him down. ,emotion,distress,0.65995824,0.29877368,0.04126807
+situation,I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan. ,emotion,distress,0.75488496,0.22658657,0.01852843
+situation,Annoyed,emotion,distress,0.80836,0.17332697,0.018313041
+situation,I would try to talk openly with everyone and try my best to accomadate everyone's interests. ,emotion,distress,0.0064232717,0.22231832,0.7712585
+situation,Why didn't they wave back?,emotion,distress,0.30889,0.6639119,0.027198093
+situation,They really don't like me,emotion,distress,0.9393675,0.057397306,0.003235242
+situation,They could start to make fun of me with other people,emotion,distress,0.5803222,0.39863497,0.021042837
+situation,I could lose some friends,emotion,distress,0.7903794,0.1971033,0.012517323
+situation,I waved at someone I knew and they did not wave back,emotion,distress,0.3026156,0.60443383,0.09295055
+situation,Anxious,emotion,distress,0.5977955,0.3667556,0.035448875
+situation,Keep walking and try to forget about it,emotion,distress,0.10860323,0.705878,0.18551865
+situation,I'm not capable of coming up with anything for this essay,emotion,distress,0.9181254,0.075337,0.0065376484
+situation,I'm not smart enough for this class,emotion,distress,0.9415422,0.052445333,0.006012552
+situation,I'm going to fail the class,emotion,distress,0.9531229,0.04201139,0.0048657404
+situation,"I'll have to retake it, which will put me behind schedule to graduate on time",emotion,distress,0.35796985,0.5740028,0.06802732
+situation,I've been trying to write an essay for two hours but can't come up with anything.,emotion,distress,0.8898483,0.10190616,0.008245589
+situation,Disappointed,emotion,distress,0.8385973,0.14692146,0.014481248
+situation,Walk away from the essay for a bit and come back to it later,emotion,distress,0.1444322,0.8107917,0.04477604
+situation,My family is taking this personally when they shouldn't be,emotion,distress,0.88628054,0.109001264,0.0047182045
+situation,My family doesn't consider things from my point of view,emotion,distress,0.72708124,0.26497334,0.007945517
+situation,I heard that I hurt some family members' feelings a lot by asking them to postpone visiting me because I'll be too busy.,emotion,distress,0.922015,0.075358085,0.0026269066
+situation,Annoyed,emotion,distress,0.80836,0.17332697,0.018313041
+situation,I wouldn't do anything,emotion,distress,0.6142074,0.36688164,0.018910976
+situation,I can't get a job,emotion,distress,0.89224964,0.099138774,0.008611562
+situation,I won't be able to pay my bills,emotion,distress,0.9298586,0.06520144,0.0049399063
+situation,I could end up having to move back in with my parents,emotion,distress,0.48414278,0.49627343,0.019583797
+situation,"I've been applying for jobs with no luck, and I got my third rejection call this week.",emotion,distress,0.8600607,0.12936045,0.010578881
+situation,Disappointed,emotion,distress,0.8385973,0.14692146,0.014481248
+situation,Just keep applying for jobs,emotion,distress,0.13054596,0.7429968,0.12645724
+situation,My friends aren't interested in my game idea,emotion,distress,0.8825781,0.11007201,0.00735
+situation,My friends don't care about what I'm doing,emotion,distress,0.76038736,0.22498432,0.0146283135
+situation,My friends think I'm annoying,emotion,distress,0.9094778,0.082275435,0.008246858
+situation,My friends don't like me,emotion,distress,0.92455006,0.07122954,0.004220507
+situation,I'm unlikeable,emotion,distress,0.9153621,0.07661691,0.008020928
+situation,"I showed a new game idea I have to some friends I have in a chat room we all have together, but only 2 of them responded.",emotion,distress,0.07137135,0.7641107,0.16451803
+situation,rejected,emotion,distress,0.55854726,0.38378233,0.057670407
+situation,Talk less often in the group chat,emotion,distress,0.31395042,0.64023006,0.04581952
+situation,He must not remember me,emotion,distress,0.49906072,0.48190835,0.019030888
+situation,I'm not memorable,emotion,distress,0.8322607,0.15140325,0.016336067
+situation,I'm boring,emotion,distress,0.9128792,0.072038256,0.015082487
+situation,I waved to someone I've met a few times and liked on the street. He didn't wave back or respond to me.,emotion,distress,0.18873438,0.6628593,0.1484063
+situation,Hurt,emotion,distress,0.7187393,0.25593245,0.02532824
+situation,Nothing,emotion,distress,0.30227673,0.56760937,0.13011387
+situation,Nobody really likes me.,emotion,distress,0.9207881,0.07359044,0.005621497
+situation,I am annoying.,emotion,distress,0.9567603,0.034880366,0.0083593875
+situation,People don't want to be around me.,emotion,distress,0.94725245,0.049975995,0.0027715052
+situation,I like a co-worker and want to hang out with them but they are too busy.,emotion,distress,0.046063922,0.26542008,0.688516
+situation,disappointed,emotion,distress,0.8419006,0.14321719,0.014882275
+situation,nothing,emotion,distress,0.30874074,0.5349961,0.15626316
+situation,I can't seem to do anything right.,emotion,distress,0.94375956,0.052356463,0.0038840263
+situation,I am a failure.,emotion,distress,0.96358967,0.03234038,0.004069956
+situation,I won't be able to meet my health goals.,emotion,distress,0.8774889,0.11559222,0.006918912
+situation,I will be unhealthy.,emotion,distress,0.89823955,0.094048455,0.007712043
+situation,I won't feel well.,emotion,distress,0.9454814,0.04952766,0.004990935
+situation,"I have been trying to diet, but at the end of the week I gained a pound.",emotion,distress,0.54579633,0.41639936,0.037804235
+situation,discouraged,emotion,distress,0.20172839,0.72757334,0.07069818
+situation,Keep working on my diet for longer.,emotion,distress,0.007925174,0.5654018,0.42667305
+situation,I am not good enough for anyone.,emotion,distress,0.9312495,0.061463695,0.0072867917
+situation,I am a failure.,emotion,distress,0.96358967,0.03234038,0.004069956
+situation,I cannot accomplish my goals.,emotion,distress,0.88600385,0.10573613,0.0082600545
+situation,I won't be able to make money.,emotion,distress,0.8659185,0.12711746,0.0069639613
+situation,I won't be able to pay my bills.,emotion,distress,0.9293974,0.06557028,0.00503228
+situation,I will struggle to afford a place to live and food to eat.,emotion,distress,0.84185505,0.14791042,0.010234568
+situation,I applied for a job and just got a call saying I didn't get the job.,emotion,distress,0.80498296,0.18321638,0.011800715
+situation,discouraged,emotion,distress,0.20172839,0.72757334,0.07069818
+situation,I would work on interviewing skills.,emotion,distress,0.09754359,0.7837512,0.11870522
+situation,I didn't do anything wrong.,emotion,distress,0.26205394,0.6514167,0.0865293
+situation,It is not my fault.,emotion,distress,0.36104852,0.5636581,0.07529337
+situation,I am self-centered.,emotion,distress,0.7623081,0.21885523,0.018836608
+situation,I don't think about others like I should.,emotion,distress,0.7644659,0.22298376,0.012550296
+situation,I won't have as many friends and people won't like me.,emotion,distress,0.7663483,0.21781002,0.015841642
+situation,I come home to see my spouse took all of their things and left me.,emotion,distress,0.642187,0.34089297,0.016920047
+situation,furious,emotion,distress,0.41267028,0.48902,0.09830965
+situation,try to talk to my spouse,emotion,distress,0.11960914,0.83176494,0.04862593
+situation,I am not good enough for him.,emotion,distress,0.8930213,0.098223954,0.00875476
+situation,I am not doing enough to keep his attention.,emotion,distress,0.72262657,0.2582085,0.019164905
+situation,I am not doing a good job in our relationship.,emotion,distress,0.9651649,0.032335818,0.0024993068
+situation,The relationship will weaken and fall apart.,emotion,distress,0.79540265,0.19797428,0.006623117
+situation,My spouse got a new gaming console and spends most of his free time playing video games.,emotion,distress,0.005400617,0.21577905,0.7788204
+situation,frustrated,emotion,distress,0.743616,0.22461607,0.03176799
+situation,Talk to my spouse about what is bothering me,emotion,distress,0.3987817,0.5847044,0.016513946
+situation,I would be thinking I can get this done because it's my job. ,emotion,distress,0.15658969,0.58867526,0.25473508
+situation,boss stops by at my coffee break and tells me work needs to get done today,emotion,distress,0.09825723,0.8122138,0.08952903
+situation,happy,emotion,distress,0.017828278,0.21848615,0.7636856
+situation,Work as hard as I can to get the job done the quickest and best I possibly can.,emotion,distress,0.009855275,0.2870974,0.7030474
+situation,Anger towards myself for not doing a good enough job,emotion,distress,0.9111867,0.08161128,0.0072019193
+situation,I would want to figure out why and how I could do a better job next time.,emotion,distress,0.21892788,0.625925,0.1551471
+situation,Because I am better than that and can do better in my life. ,emotion,distress,0.032134682,0.13785076,0.8300145
+situation,Because I hold myself to a high standard. ,emotion,distress,0.058903348,0.51867217,0.42242453
+situation,Fired after 6 months of working as a car salesman.,emotion,distress,0.6470212,0.3330026,0.01997624
+situation,Angry,emotion,distress,0.82202166,0.15489665,0.023081677
+situation,Try to figure out why I did a poor job and fix those things while finding a new job. ,emotion,distress,0.6531346,0.3154606,0.031404823
+situation,I would miss her because she won't be around anymore and I loved her very much.,emotion,distress,0.19020773,0.33379608,0.47599617
+situation,I would wonder why she left the way she did.,emotion,distress,0.36144167,0.6192444,0.019313872
+situation,I would ask myself if there's anything different I could have changed. ,emotion,distress,0.15777436,0.78337526,0.058850437
+situation,Came home to find my girlfriend has left me and moved out of our house.,emotion,distress,0.4769955,0.4924271,0.030577455
+situation,Sad,emotion,distress,0.6989043,0.26401702,0.037078775
+situation,I would still go after her if I love her and find out how I could make things right. ,emotion,distress,0.04242341,0.42279044,0.5347861
+situation,My friend's acting like a dick when I showed up for him.,emotion,distress,0.93411916,0.06078215,0.0050986195
+situation,It'd be upsetting because I'm at his party and he's the only person I know,emotion,distress,0.6982312,0.27444345,0.027325349
+situation,I don't know anybody else here,emotion,distress,0.367367,0.5790952,0.0535378
+situation,"at a friends party, he's the only person I know and he's being an asshole.",emotion,distress,0.9213828,0.07118653,0.007430712
+situation,angry,emotion,distress,0.7658094,0.194679,0.039511666
+situation,I would leave the party and tell him to screw off.,emotion,distress,0.8950304,0.099862665,0.0051068887
+situation,felt like whooping my son's ass for not listening,emotion,distress,0.94019586,0.055198517,0.004605543
+situation,It's upsetting because my child is supposed to listen to me.,emotion,distress,0.9387345,0.057339303,0.0039262283
+situation,It means he's not listening to me and isn't behaving properly. ,emotion,distress,0.91811067,0.078026265,0.0038630443
+situation,It would mean I need to find the correct way to fix his behavior so that he does what he's supposed to do. ,emotion,distress,0.3089865,0.61749417,0.073519304
+situation,Me and my 6 year old son were at the grocery store and he kept grabbing things off the shelf ignoring my requests to stop until I got very angry and yelled at him making him cry in the store.,emotion,distress,0.95568794,0.04054905,0.0037630096
+situation,anger,emotion,distress,0.38028437,0.46144688,0.15826876
+situation,If I could go back I would have remained calm instead of yelling and when we got home grounded him from his toys and tried to talk to him about why he's behaving that way. ,emotion,distress,0.47509596,0.47608703,0.048817024
+situation,My boss is a workaholic person who strain people ,emotion,distress,0.834578,0.15416111,0.011260911
+situation,Because i will have to look for another job elsewhere,emotion,distress,0.46883625,0.49233472,0.03882902
+situation,Getting meaningful job you like is scarce,emotion,distress,0.23873706,0.5844241,0.17683883
+situation,Will have to stay at home for a while before i can get one.,emotion,distress,0.4992097,0.48440963,0.016380608
+situation,My boss likes pushing people to their limit with little time for rest.,emotion,distress,0.7582864,0.22375855,0.017954988
+situation,tired,emotion,distress,0.6294645,0.30937302,0.061162423
+situation,I will have to increase my endurance and discuss leisure time with my boss,emotion,distress,0.12837434,0.7910992,0.08052641
+situation,Fear of total depression,emotion,distress,0.8786343,0.11445478,0.006910888
+situation,i will not be able to pay my bills,emotion,distress,0.9411881,0.053256474,0.005555377
+situation,i will become nuisance to my family and friends as i will depend on them,emotion,distress,0.8464444,0.14730377,0.0062518516
+situation,i will lose them at the long run,emotion,distress,0.67338926,0.30680707,0.019803658
+situation,The positions are based on merit or qualification higher than mine,emotion,distress,0.02702527,0.86341465,0.109560065
+situation,sad,emotion,distress,0.7283445,0.22596292,0.045692593
+situation,I will improve my qualification and do more better in future interviews,emotion,distress,0.0027344134,0.07781915,0.9194464
+situation,I am free from the burden of constant quarrel,emotion,distress,0.05068207,0.5128295,0.43648845
+situation,The relationship was not progressing. ,emotion,distress,0.79874754,0.18996666,0.011285807
+situation,happy,emotion,distress,0.017828278,0.21848615,0.7636856
+situation,Find another lover who appreciates and understand me,emotion,distress,0.0141066825,0.27075234,0.715141
+situation,Because she is a female and dating our boss,emotion,distress,0.22845301,0.7121666,0.059380416
+situation,I wont be able to get promoted on time,emotion,distress,0.78313154,0.1993635,0.017505016
+situation,My salary will still be the same,emotion,distress,0.047232095,0.7067518,0.24601604
+situation,Plans and expenses budgeted on the increment will be cancelled,emotion,distress,0.6136349,0.37612006,0.010245024
+situation,will have to look like a fool explaining to my wife and kids.,emotion,distress,0.8303512,0.15701467,0.012634155
+situation,My promotion was given to a colleague .,emotion,distress,0.00951018,0.5160172,0.47447255
+situation,furious,emotion,distress,0.41267028,0.48902,0.09830965
+situation,I will find a better organization where my promotion will be on what i have done for the company and not deniable.,emotion,distress,0.035518125,0.35880575,0.6056762
+situation,He snubbed my greeting ,emotion,distress,0.6902924,0.29113892,0.018568618
+situation,I will look like a fool waving ,emotion,distress,0.820396,0.15731186,0.022292206
+situation,Other peoples attention will be drawn to me,emotion,distress,0.01895962,0.6870564,0.29398397
+situation,He must have ignored me or was not looking in my direction,emotion,distress,0.6666016,0.3222433,0.011155101
+situation,furious,emotion,distress,0.41267028,0.48902,0.09830965
+situation,I wont wave again next time. will prefer to go and meet him in person,emotion,distress,0.18269293,0.60468584,0.21262118
+situation,They don't like me.,emotion,distress,0.88662386,0.10781278,0.005563456
+situation,It would mean that I'm not enjoyable to be around.,emotion,distress,0.9479616,0.04850368,0.0035347245
+situation,It would mean nobody wants to be around me.,emotion,distress,0.91202915,0.082823575,0.00514725
+situation,It would mean that I might always be alone.,emotion,distress,0.81454974,0.17685549,0.008594782
+situation,I asked a co-worker to hang out.,emotion,distress,0.0062003685,0.74373776,0.2500619
+situation,rejected,emotion,distress,0.55854726,0.38378233,0.057670407
+situation,"I would say ok, well if you ever feel like hanging out just let me know.. and that would be it.  I wouldn't try to force anything.",emotion,distress,0.019461147,0.65665245,0.32388645
+situation,Nobody cares what I have to say.,emotion,distress,0.6382088,0.34155583,0.02023536
+situation,My thoughts and feelings are pointless.,emotion,distress,0.9407928,0.055613805,0.0035934309
+situation,I have no worth.,emotion,distress,0.9346917,0.057845857,0.007462363
+situation,I'm trying to write an essay.,emotion,distress,0.1436875,0.7664766,0.089835934
+situation,frustrated,emotion,distress,0.743616,0.22461607,0.03176799
+situation,I would just start writing.  I could always go back and edit and fix it but the point would be to get something on paper.,emotion,distress,0.08661276,0.71035874,0.20302847
+situation,If I hurt their feelings they won't love me anymore.,emotion,distress,0.8639209,0.12716897,0.008910204
+situation,It would mean that my family won't be in my life anymore.,emotion,distress,0.89367926,0.1010604,0.005260367
+situation,It would mean that I am unloveable.,emotion,distress,0.8962071,0.093837,0.009955863
+situation,It would mean that I am alone.,emotion,distress,0.6490544,0.33307868,0.017866867
+situation,I asked family members to wait to come visit me.,emotion,distress,0.07357256,0.87203735,0.0543901
+situation,guilt,emotion,distress,0.3309054,0.5605596,0.108534984
+situation,"I would call and apologize and make sure that they know I would love for them to visit, I just wanted to have enough time to spend with them while they were there.",emotion,distress,0.040253695,0.36542302,0.5943233
+situation,I'm not good enough.,emotion,distress,0.8812737,0.10674548,0.0119808065
+situation,I will always be a failure.,emotion,distress,0.95108134,0.044473577,0.004445088
+situation,The job I applied for was filled.,emotion,distress,0.031858053,0.58771306,0.38042885
+situation,failure,emotion,distress,0.7220052,0.24322914,0.034765683
+situation,I would keep applying for jobs and hope that I get one.,emotion,distress,0.012963164,0.37597874,0.6110581
+situation,Nothing I do is ever good enough.,emotion,distress,0.71935266,0.24270962,0.03793767
+situation,I will never make my mother proud.,emotion,distress,0.95656925,0.039585385,0.0038453885
+situation,I have no worth.,emotion,distress,0.9346917,0.057845857,0.007462363
+situation,My mother criticized my driving.,emotion,distress,0.85250247,0.1412869,0.0062107136
+situation,resentment,emotion,distress,0.32096204,0.56764394,0.11139403
+situation,"I would continue to listen to her criticize me over and over until finally, I couldn't take it anymore and I would start snapping back at her until she got mad enough to stop.",emotion,distress,0.8859036,0.10658811,0.007508348
+situation,"HE HAS RIGHTS TO ORDER ME IN WORKING TIME. IN THIS SCENARIO I AM IN BREAK TIME, SO HE HAS NO RIGHTS TO ASK ABOUT MY UNCOMPLETED WORK.",emotion,distress,0.6060932,0.35349697,0.04040982
+situation,IT WAS VERY TRUE BECAUSE I AM WHO I AM. AND I KNOW I WILL COMPLETE THE WORK BEFORE DUE DATE THAT'S WHY I FEEL AGGRESSIVE. IF NOT I KEEP CALM.,emotion,distress,0.006529486,0.11190027,0.8815702
+situation,IT WAS TRUE. OTHER COLLEAGUES ALSO WATCHING ME IN BREAK TIME. IT WAS REALLY A BIG INSULT TO ME.,emotion,distress,0.31365094,0.5267169,0.15963216
+situation,"IT WAS TRUE BECAUSE IF SOMEONE FROM OTHER PROJECT WATCHED THIS INCIDENT, I BECAME THE TOPICS FOR THEM TODAY.",emotion,distress,0.043241445,0.567713,0.38904548
+situation,IT WILL CREATE SOME BAD IMAGE TO ME INSIDE THE OFFICE.,emotion,distress,0.89667326,0.09789701,0.0054297103
+situation,OTHER TEAM PROJECT MANAGERS WOULD NOT REFER ME TO THEIR FUTURE PROJECTS.,emotion,distress,0.680922,0.30315888,0.015919173
+situation,THIS INCIDENT WILL DIRECTLY AFFECT CAREER.,emotion,distress,0.20783736,0.7137321,0.078430496
+situation,I DON'T WANT TO LOSE MY JOB FOR THIS INCIDENT.,emotion,distress,0.9030114,0.084255256,0.012733359
+situation,"IF MY BOSS STOPPED ME WHEN I AM IN MY COFFEE BREAK , I WOULD RATHER ASK AGAINST HIM OR I CAME AFTER FINISHED MY BREAK",emotion,distress,0.63183504,0.34291098,0.025254019
+situation,AGGRESSIVE,emotion,distress,0.08083335,0.5548406,0.364326
+situation,I WILL ASKED HIM ABOUT THE JUSTICE.,emotion,distress,0.18690136,0.77752894,0.035569716
+situation,I FEEL VERY SAD BECAUSE THEY MIGHT NOT CONSIDER ME AS THEIR CLOSE FRIEND.,emotion,distress,0.97136533,0.026119253,0.0025154217
+situation,"IF THEY CONSIDER ME AS THEIR CLOSE FRIEND , THEY WOULD DEFINITELY COME WITH ME FOR OUT.",emotion,distress,0.0060659456,0.33566302,0.6582711
+situation,"IF THEY REPLY ME AS BUSY, THEY WOULD DEFINITELY AVOID ME FOR SOME REASON.",emotion,distress,0.49409893,0.45699087,0.04891022
+situation,I FEEL VERY BAD BECAUSE WHEN WE CONSIDER A PERSON AS OUR CLOSE FRIEND AND WE PLAN TO GO OUT WITH THEM BUT THEY NEGLECT FOR THEIR WORK.,emotion,distress,0.9553689,0.041214745,0.0034163431
+situation,SAD,emotion,distress,0.78524506,0.18300685,0.031748045
+situation,I KEEP DISTANCE WITH THE PERSON IN FUTURE.,emotion,distress,0.119312786,0.78490245,0.095784746
+situation,I FEEL VERY SAD.,emotion,distress,0.9369768,0.05472665,0.008296591
+situation,BECAUSE IT WAS SUCH AN EMBRASSING MOMENT THAT I EVER FEEL.,emotion,distress,0.07209442,0.28289452,0.6450111
+situation,EVEN I STRUGGLED TO MAKE TWO SENTENCE. ,emotion,distress,0.33521307,0.57827854,0.086508445
+situation,THIS WAS EASY FOR BEGINNER IN ESSAY WRITING. BUT I SAT FOR HOUR TO JOIN TWO SENTENCE.  ,emotion,distress,0.044745833,0.41055226,0.54470193
+situation,"THIS IS ONE OF THE TOUGHEST MOMENT IN MY LIFE. BECAUSE IF ANY ONE WATCHED ME, THEY THINK THAT I AM NOT FIT FOR THIS",emotion,distress,0.8024098,0.14944433,0.048145916
+situation,EMBRASSED,emotion,distress,0.43165708,0.4957913,0.07255173
+situation,I RELAX MY MIND AND TRY TO DO IT FAST.,emotion,distress,0.008963119,0.20983541,0.7812014
+situation,I FEEL LITTLE BIT FEAR TO HANDLE THE SITUATION.,emotion,distress,0.6770981,0.30661663,0.01628527
+situation,WHEN IT COMES TO PARTY MEANS I AM IN CONVERSATION WITH PEOPLE. ,emotion,distress,0.050011322,0.64610136,0.30388734
+situation,IF NOT IT WAS EMBARRASSING MOMENT FOR ME TO MINGLE WITH ANY ONE.,emotion,distress,0.42279348,0.51970035,0.05750615
+situation,I FEEL NEGLECTED AND FEEL VERY COMPLEX. IT REVEALS ABOUT MY APPROACH TOWARDS PEOPLE. ,emotion,distress,0.004215373,0.1451556,0.8506291
+situation,COMPLEX,emotion,distress,0.17263155,0.64440966,0.18295887
+situation,I TRY TO MINGLE WITH PEOPLE OR ELSE I CAME OUT.,emotion,distress,0.31051242,0.6315036,0.057984024
+situation,I SERIOUSLY DON'T KNOW WHY. ,emotion,distress,0.85065264,0.13201205,0.017335333
+situation,I THINK SUDDEN FEEL MAKES ME CRY.,emotion,distress,0.8607913,0.119720995,0.01948766
+situation,I CAN'T STOP CRYING THAT DAY.,emotion,distress,0.75530505,0.16629907,0.07839582
+situation,"ONE WEEK AGO, I HEARD A NEWS THAT MY FRIEND'S FATHER WAS DIED DUE TO CANCER. HE WAS AFFECTED BY CANCER BEFORE TWO YEARS AGO.HOWEVER ALL WERE KNOWN THAT HE DIED IN FEW DAYS. AT LAST HE DIED AFTER TWO YEARS. I ATTEND THE FUNERAL PARTY. ALL WERE IN LITTLE BIT OF SADNESS. I REACHED THE SPOT AND STARTED CRYING LIKE A CHILD. IN CASE I HAVE NOT EVEN SAW BEFORE. BUT I STARTED CRYING. I FEEL SAD FOR NEARLY 3 DAYS. HIS FACE COME TO MY MIND FREQUENTLY. I DON'T KNOW WHY THIS IS HAPPENED. I HAVE NEVER EXPERIENCED LIKE THIS BEFORE.",emotion,distress,0.8612325,0.11869231,0.020075165
+situation,SAD,emotion,distress,0.78524506,0.18300685,0.031748045
+situation,I LEFT THE PLACE WITH IN A FEW HOURS.,emotion,distress,0.11553,0.80586165,0.078608334
+situation,I better end my break fast so I get that the work done.,emotion,distress,0.06966501,0.65166575,0.2786692
+situation,"My boss might penalize me, which could lead to me getting fired. ",emotion,distress,0.86923563,0.12518032,0.005584055
+situation,"I would lose out on financial opportunities, which would affect my bills and household.",emotion,distress,0.80000985,0.19164082,0.008349298
+situation,I may have to live in a smaller apartment or even end up homeless. ,emotion,distress,0.70350665,0.27575696,0.020736432
+situation,I'm on my coffee break and my boss reminds me that I have more work to do. ,emotion,distress,0.48242068,0.43109444,0.08648483
+situation,rushed ,emotion,distress,0.30045477,0.6332594,0.066285856
+situation,I would immediately try to finish the work that's left. ,emotion,distress,0.038693234,0.5644975,0.39680925
+situation,I would feel frustrated because I keep trying to find a job but nobody wants to give me a shot. ,emotion,distress,0.9086848,0.08265108,0.008664195
+situation,It says that I'm not a good employee and it may affect my finances because no one will hire me.,emotion,distress,0.960883,0.037251227,0.0018656901
+situation,It means I'm a bad employee prospect and not worth anyone's time.,emotion,distress,0.9696315,0.028018646,0.002349819
+situation,It would mean that I'll keep struggling to find a job.,emotion,distress,0.8362277,0.15479733,0.008974922
+situation,"I got a phone call saying that the position I applied to was filled, and it was the third time it happened this week. ",emotion,distress,0.3597312,0.5719594,0.06830944
+situation,Frustrated ,emotion,distress,0.7204904,0.25028056,0.02922899
+situation,I may try to look for different jobs or alternate ways to apply for them.,emotion,distress,0.03263155,0.88036954,0.08699896
+situation,I would feel like I'm not worth talking to because they don't like me as a person or that I'm boring. ,emotion,distress,0.9270365,0.06802751,0.0049360204
+situation,They would be passively attacking me character and it would make more upset.,emotion,distress,0.94269234,0.05522116,0.0020865155
+situation,It means that I'm very unlikeable and uninteresting. ,emotion,distress,0.9373732,0.056910433,0.005716402
+situation,It means that I have a poor character and it'll be difficult to converse with people. ,emotion,distress,0.9297125,0.06543202,0.0048554987
+situation,"I'm at a party where I only know the host, and I try talking to someone but they barely respond and leave to join another group. ",emotion,distress,0.6253795,0.32747465,0.04714582
+situation,upset,emotion,distress,0.6399727,0.3158305,0.044196833
+situation,I would try to talk to a few more people and see what happens. ,emotion,distress,0.021089695,0.85709596,0.121814325
+situation,I worried that she might break up with me and that I'd never see her again. ,emotion,distress,0.87556857,0.11683213,0.007599306
+situation,I've been with her for many years and it would be a heartbreaking experience if she left.,emotion,distress,0.69036674,0.2680951,0.041538164
+situation,I would have to look for someone else or possibly end up alone.,emotion,distress,0.6396164,0.34771743,0.012666113
+situation,I'd struggle to pay the bills because I wouldn't have a roommate to share the apartment with.,emotion,distress,0.8272121,0.16211228,0.010675659
+situation,I might have to move in with friends or worse.,emotion,distress,0.6516492,0.33021343,0.018137436
+situation,"I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. ",emotion,distress,0.877302,0.11790337,0.0047946977
+situation,worried,emotion,distress,0.5776596,0.38484,0.03750043
+situation,I'd find my partner immediately and apologize for what happened. ,emotion,distress,0.4508955,0.46783677,0.081267804
+situation,I would feel like they were ignoring me on purpose. ,emotion,distress,0.796798,0.1919386,0.011263367
+situation,It means they don't respect me. ,emotion,distress,0.72677094,0.25670978,0.01651935
+situation,It means they don't see me as a valuable member of the company. ,emotion,distress,0.66592675,0.3099087,0.024164615
+situation,It would mean that I'm an incompetent employee or worker. ,emotion,distress,0.83815455,0.15134178,0.010503664
+situation,I waved to someone who was at the company and they didn't wave back. ,emotion,distress,0.30223387,0.592533,0.1052331
+situation,annoyed,emotion,distress,0.77359766,0.20160803,0.02479438
+situation,I would try to talk to them in the future to see why they didn't wave back. ,emotion,distress,0.1462399,0.7933458,0.060414314
+situation,I've missed out on eating a lot of foods I'd like to eat for nothing.,emotion,distress,0.74859196,0.22082971,0.030578312
+situation,I'm putting in effort and seeing no results.,emotion,distress,0.78247887,0.20207189,0.015449202
+situation,I gained a pound instead of losing weight after dieting.,emotion,distress,0.3303621,0.5820577,0.08758019
+situation,pissed,emotion,distress,0.7653034,0.19941263,0.0352841
+situation,"I would continue the diet for another week and if I still didn't see any weight loss, I would change my diet.",emotion,distress,0.16788128,0.77981824,0.052300487
+situation,I am selfish.,emotion,distress,0.87765306,0.10718473,0.015162184
+situation,I am not trying hard enough to find a balance between my needs and those of the people I love.,emotion,distress,0.5749459,0.34969434,0.075359784
+situation,I am hurting the people I love.,emotion,distress,0.8364559,0.14229742,0.021246752
+situation,I hurt my family members by telling them to postpone their long-planned trip to visit me because I was too busy.,emotion,distress,0.92760015,0.06963953,0.002760411
+situation,guilt,emotion,distress,0.3309054,0.5605596,0.108534984
+situation,Call my family and tell them I will find a way to get the things done I need to get done while they are visiting me.,emotion,distress,0.026800422,0.7360427,0.23715682
+situation,I am not a good job candidate.,emotion,distress,0.94782066,0.04783307,0.004346277
+situation,All the hard work I've put into my education and work experience has not been enough.,emotion,distress,0.6861115,0.28164795,0.032240476
+situation,"I have wasted a lot of time, money and energy.",emotion,distress,0.9657417,0.03129944,0.0029587941
+situation,I am a failure at life.,emotion,distress,0.97487473,0.02201831,0.0031069359
+situation,I just received my third call in a week saying someone else got the job I applied for.,emotion,distress,0.32704124,0.596092,0.07686676
+situation,frustration,emotion,distress,0.5709473,0.36281443,0.066238254
+situation,"I would definitely change my resume and start thinking about whether or not I'm qualified for the jobs I'm applying for and if not, applying for different jobs. I'd also probably contact the people who didn't hire me to ask why so I can change whatever it is I'm doing wrong.",emotion,distress,0.59319943,0.37298444,0.033816144
+situation,My husband must have met another woman.,emotion,distress,0.51209587,0.47046202,0.017442103
+situation,My marriage is over.,emotion,distress,0.82919437,0.16081654,0.009989086
+situation,I am a failure as a wife.,emotion,distress,0.96066076,0.036223374,0.0031158016
+situation,I came home to find my spouse had taken all of his things and left a note saying our marriage was over.,emotion,distress,0.6009734,0.38263658,0.01639005
+situation,horrified,emotion,distress,0.5709609,0.37550232,0.053536795
+situation,Try to contact my husband to find out what the hell was going on.,emotion,distress,0.8136132,0.18158211,0.004804655
+situation,My husband is still mad about our fight last night and I just want to forget about it.,emotion,distress,0.95020616,0.04639121,0.0034026564
+situation,It makes me worry that the damage to our marriage with these stupid fights is going to get worse and worse until we end up divorced.,emotion,distress,0.97864896,0.019373244,0.001977835
+situation,"I'm sitting here right now irritated because my husband didn't call me on his break like he always does, and we had a fight last night.",emotion,distress,0.96369183,0.033842307,0.0024658442
+situation,irritated,emotion,distress,0.7870392,0.18391311,0.029047713
+situation,I'm going to try to just act normal when he gets home to see if we can't just move on from this without having to have a conversation about it.,emotion,distress,0.14307605,0.76219165,0.09473229
+situation,They don't like me.,emotion,distress,0.88662386,0.10781278,0.005563456
+situation,We will not become friends.,emotion,distress,0.73107827,0.25474837,0.014173294
+situation,It will be there lost.,emotion,distress,0.59061354,0.3885955,0.020790963
+situation,Trying to set up outside time to get to know co-worker better.,emotion,distress,0.009743347,0.73991334,0.2503433
+situation,anxious,emotion,distress,0.5813285,0.382689,0.035982527
+situation,Continue to speak to them.,emotion,distress,0.086415306,0.8415147,0.07206999
+situation,I am not capable of thinking correctly.,emotion,distress,0.95092,0.04532716,0.003752894
+situation,That I must be losing my mind.,emotion,distress,0.9393879,0.055788413,0.0048237354
+situation,I am not going to finish the paper.,emotion,distress,0.89374894,0.09921532,0.0070356373
+situation,I will get a bad grade.,emotion,distress,0.9175115,0.075674675,0.0068137445
+situation,I will fail the class.,emotion,distress,0.9380194,0.056055006,0.0059255734
+situation,Having problems coming up with words to write essay.,emotion,distress,0.73694724,0.24629377,0.016758947
+situation,dumb,emotion,distress,0.7371607,0.20836556,0.054473694
+situation,Seek help from someone else.,emotion,distress,0.39697403,0.5779177,0.02510822
+situation,I have no job.,emotion,distress,0.844289,0.13789725,0.017813722
+situation,I can't pay my bills.,emotion,distress,0.9115375,0.07922937,0.009233138
+situation,I will lose my home and family.,emotion,distress,0.94663477,0.04924956,0.0041156267
+situation,Fired for not meeting quota as a salesman.,emotion,distress,0.8850239,0.11004966,0.0049264636
+situation,scared,emotion,distress,0.48324642,0.4631255,0.053628106
+situation,Try and find another job.,emotion,distress,0.33063218,0.621009,0.04835881
+situation,Nobody wants to talk to me.,emotion,distress,0.8861756,0.105489746,0.008334731
+situation,They don't like me.,emotion,distress,0.88662386,0.10781278,0.005563456
+situation,I will try and talk to someone else.,emotion,distress,0.06321688,0.85217077,0.08461232
+situation,I'm at a party where I only know the host.,emotion,distress,0.10548224,0.68683606,0.20768161
+situation,loneliness,emotion,distress,0.4543477,0.47871837,0.06693393
+situation,Leave the party early.,emotion,distress,0.26617342,0.6781695,0.05565708
+situation,I can't sing.,emotion,distress,0.8859671,0.10519029,0.008842708
+situation,Maybe I need to quit the choir.,emotion,distress,0.69664073,0.2909287,0.012430559
+situation,I can't sing.,emotion,distress,0.8859671,0.10519029,0.008842708
+situation,I don't have any talents.,emotion,distress,0.7130269,0.2679582,0.019014996
+situation,I have nothing to offer the world.,emotion,distress,0.77828157,0.20498905,0.016729439
+situation,"I was given a solo for the church play.  At practice when it came time for me to sing, my voice cracked and I lost the solo.",emotion,distress,0.7236361,0.2478564,0.028507518
+situation,sad,emotion,distress,0.7283445,0.22596292,0.045692593
+situation,Try and practice my singing more.,emotion,distress,0.01289486,0.630317,0.35678816
+situation,He is trying to avoid me and is uninterested,emotion,distress,0.8337763,0.16022345,0.0060002664
+situation,I may be an uninteresting person with little to offer,emotion,distress,0.8941508,0.09913231,0.0067169764
+situation,I would have trouble connecting with anyone I'm interested in,emotion,distress,0.6567747,0.31495768,0.028267602
+situation,I would be alone for a long time,emotion,distress,0.7757208,0.21300162,0.011277546
+situation,I would become depressed ,emotion,distress,0.8813532,0.10804189,0.010604942
+situation,Life would become intolerable,emotion,distress,0.9625515,0.03503433,0.0024141916
+situation,I am interested in hanging out with a coworker and he is unaccepting of offer,emotion,distress,0.10248478,0.44129336,0.45622188
+situation,disappointed,emotion,distress,0.8419006,0.14321719,0.014882275
+situation,Ask again at another time,emotion,distress,0.112205155,0.8315089,0.056286074
+situation,I am not going to be able to finish this essay,emotion,distress,0.96710837,0.029756168,0.0031354951
+situation,I would fail the assignment or task given to me,emotion,distress,0.88018423,0.113315165,0.006500626
+situation,I would be reprimanded for not completing essay task,emotion,distress,0.8879668,0.108264945,0.0037683162
+situation,I would feel more of a failure,emotion,distress,0.92737114,0.06908789,0.0035409196
+situation,I would lose confidence,emotion,distress,0.9324217,0.06356085,0.004017576
+situation,My work performance would suffer,emotion,distress,0.92725027,0.069693886,0.0030557527
+situation,I could lose my job,emotion,distress,0.93984854,0.055850144,0.0043012374
+situation,It would be difficult to find another job,emotion,distress,0.6334448,0.34081984,0.02573539
+situation,I would be in a hopeless situation,emotion,distress,0.91778135,0.07767865,0.0045400076
+situation,It could lead to deterioration of mental and physical health,emotion,distress,0.9431289,0.05465356,0.0022175729
+situation,I am unable to write anything down for an essay after hours of trying.,emotion,distress,0.92413956,0.07039879,0.005461601
+situation,frustrated,emotion,distress,0.743616,0.22461607,0.03176799
+situation,I would write down anything I could no matter how irrelevant to get something going,emotion,distress,0.13198428,0.6934593,0.17455648
+situation,I am a bad person not making time for them,emotion,distress,0.94960207,0.046451185,0.003946769
+situation,I am being too self centered and not opening myself to others,emotion,distress,0.890319,0.10317084,0.006510148
+situation,I would be difficult to be around,emotion,distress,0.90634745,0.08803715,0.00561541
+situation,I would lose family and friends,emotion,distress,0.88999057,0.103757136,0.0062523386
+situation,I would be alone without support,emotion,distress,0.7817698,0.2016606,0.016569687
+situation,Life would become unbearable,emotion,distress,0.96441555,0.03256789,0.0030165028
+situation,I have asked my family to postpone their visit to town due to a busy schedule,emotion,distress,0.42457107,0.5540865,0.02134241
+situation,guilty,emotion,distress,0.415411,0.5072345,0.0773545
+situation,Try to accommodate their potential visit by shifting around priorities,emotion,distress,0.026932385,0.84098876,0.13207889
+situation,I'm going to be stuck in my current situation forever,emotion,distress,0.89742553,0.09495601,0.00761848
+situation,I would be unable to improve my life situation,emotion,distress,0.84951067,0.13741608,0.013073226
+situation,(Previous answer was \I would be unable to improve my life situation (didn't appear at top) - I would become more depressed and frustrated,emotion,distress,0.94551784,0.050394155,0.0040879375
+situation,My mental and physical health could deteriorate,emotion,distress,0.9715568,0.026572317,0.0018708904
+situation,The mental and physical toll on my health could wind up killing me,emotion,distress,0.95849466,0.03872755,0.002777775
+situation,I have received another call in which I didn't get a job,emotion,distress,0.8234265,0.16827138,0.0083020525
+situation,frustrated,emotion,distress,0.743616,0.22461607,0.03176799
+situation,I would continue to keep focus on sending out resumes and applying for jobs.,emotion,distress,0.015956542,0.6339564,0.35008714
+situation,I am now going to have to pay almost $1000 for the bill,emotion,distress,0.9043198,0.08960941,0.0060707973
+situation,I would be unable to pay off my other debts as planned,emotion,distress,0.8085721,0.18257467,0.008853216
+situation,It would keep me stuck here in my current city and job longer,emotion,distress,0.6490037,0.32873228,0.022264043
+situation,I would continue to deteriorate physically and mentally,emotion,distress,0.95993525,0.037916455,0.0021483807
+situation,It could lead to serious health problems,emotion,distress,0.9342171,0.06262118,0.0031617705
+situation,Could lead to death,emotion,distress,0.8473236,0.14701791,0.005658491
+situation,I hit my head and went to emergency room and regret decision to go to ER,emotion,distress,0.9127163,0.08142053,0.005863145
+situation,frustrated,emotion,distress,0.743616,0.22461607,0.03176799
+situation,Try to negotiate smaller payments so that my other debt can be paid off in somewhat the same time frame,emotion,distress,0.038015004,0.81954086,0.14244409
+situation,I'm not good enough for her.,emotion,distress,0.83195126,0.15496303,0.013085734
+situation,"I am not a \good\\ catch\""""",emotion,distress,0.82290393,0.15707862,0.020017467
+situation,I won't find someone I can be with,emotion,distress,0.43441334,0.47736982,0.08821681
+situation,I will be alone forever,emotion,distress,0.7901262,0.1928118,0.017062005
+situation,I ask out a co-worker who I became fond of recently but was turned down.,emotion,distress,0.30678663,0.60180473,0.09140866
+situation,crestfallen,emotion,distress,0.14348885,0.7204369,0.13607432
+situation,nothing,emotion,distress,0.30874074,0.5349961,0.15626316
+situation,I will never be slim and fit.,emotion,distress,0.3717943,0.4879084,0.14029731
+situation,I cannot get my health under control,emotion,distress,0.9566773,0.039463814,0.00385886
+situation,I will get net health problems due to my weight,emotion,distress,0.9558434,0.041982085,0.0021745558
+situation,I will rack up hospital bills for treating my debilitating health,emotion,distress,0.94901055,0.04802891,0.0029605727
+situation,I will lose my home due to not being able to pay the mortgage and hospital bills,emotion,distress,0.96373916,0.03377306,0.0024877496
+situation,"I have stuck with a diet for a week, but found out I gained a pound after that week.",emotion,distress,0.4507938,0.49668074,0.05252542
+situation,sad,emotion,distress,0.7283445,0.22596292,0.045692593
+situation,Increase the amount of exercise I do weekly.,emotion,distress,0.010331529,0.80001915,0.18964939
+situation,I am not good enough to get this work done.,emotion,distress,0.93262225,0.060972348,0.006405327
+situation,I am not smart enough to get this work done,emotion,distress,0.92485607,0.068793185,0.0063508586
+situation,I would fail at this task,emotion,distress,0.91061944,0.08170726,0.0076732826
+situation,"I need to write an essay, but I can't even put two sentences together.",emotion,distress,0.8621073,0.124623254,0.013269487
+situation,frustrated,emotion,distress,0.743616,0.22461607,0.03176799
+situation,Get writing inspiration,emotion,distress,0.010631158,0.47717956,0.51218927
+situation,No one likes me.,emotion,distress,0.9513986,0.044923887,0.0036774583
+situation,People do want to get to know me,emotion,distress,0.020023992,0.5506296,0.42934632
+situation,I can't make friends,emotion,distress,0.79675335,0.18422213,0.01902458
+situation,I will be alone,emotion,distress,0.7292161,0.2506985,0.020085376
+situation,No one will be there when I need them,emotion,distress,0.5352425,0.43018898,0.034568578
+situation,"I am at a party where I know almost no one. When I try to make conversation, I only get one word answers.",emotion,distress,0.7039213,0.26426834,0.03181039
+situation,embarrassed,emotion,distress,0.8328592,0.15129288,0.015847882
+situation,Try to learn their interests and start a conversation that way.,emotion,distress,0.032633144,0.86303884,0.10432806
+situation,He's insulting me.,emotion,distress,0.95505,0.04211668,0.0028333392
+situation,I lost respect from my other friends,emotion,distress,0.85435176,0.1388005,0.006847771
+situation,They won't take me seriously anymore,emotion,distress,0.9223072,0.07398033,0.003712528
+situation,They will stop being my friends,emotion,distress,0.72692704,0.25667962,0.016393337
+situation,I was talking to a friend who got me angry.,emotion,distress,0.89818966,0.09786399,0.003946364
+situation,livid,emotion,distress,0.32505077,0.4765954,0.19835389
+situation,Defend myself and throw an insult his way.,emotion,distress,0.25502092,0.69497466,0.05000435
+situation,Fear,emotion,distress,0.51918596,0.44798958,0.032824423
+situation,I fear that my boss does not think I am working hard enough,emotion,distress,0.92742926,0.06860232,0.0039684023
+situation,I could lose my job,emotion,distress,0.93984854,0.055850144,0.0043012374
+situation,I am not worthy of this job,emotion,distress,0.9676792,0.028879855,0.0034409782
+situation,I will not be able to find another good job,emotion,distress,0.84824556,0.13490538,0.016849117
+situation,I will not be able to pay bills,emotion,distress,0.9387017,0.05661742,0.004680909
+situation,I will lose my home,emotion,distress,0.9360366,0.058607195,0.0053562312
+situation,I will be homeless,emotion,distress,0.80947787,0.17591053,0.014611658
+situation,I was taking a break and my boss reminded me of some unfinished work.,emotion,distress,0.62141913,0.35744342,0.021137383
+situation,Anxious,emotion,distress,0.5977955,0.3667556,0.035448875
+situation,Talk to my boss about my performance. ,emotion,distress,0.16843249,0.7418192,0.08974831
+situation,Disappointed and hurt that the co-worker has not time for me.,emotion,distress,0.97104937,0.026927046,0.0020236003
+situation,I feel hurt that this person does not have time for me. Maybe I am selfish.,emotion,distress,0.95252657,0.043408103,0.004065303
+situation,I am selfish,emotion,distress,0.8907306,0.0977786,0.011490696
+situation,I become friends with a co-worker. Ask her to dinner. She says she is to busy,emotion,distress,0.07707396,0.6016924,0.3212337
+situation,Disappointed,emotion,distress,0.8385973,0.14692146,0.014481248
+situation,I would wait a few weeks and ask her out again,emotion,distress,0.04663309,0.8538073,0.09955969
+situation,Frustration at not losing weight,emotion,distress,0.7187345,0.26080206,0.020463439
+situation,"I tried so hard, followed the diet and it did not work.",emotion,distress,0.92217165,0.07226024,0.0055680955
+situation,I failed,emotion,distress,0.8840221,0.10502138,0.010956505
+situation,I am a loser,emotion,distress,0.9609297,0.033768434,0.00530175
+situation,I have been dieting and instead of losing weight I gained.,emotion,distress,0.58777225,0.3739526,0.038275126
+situation,Frustration,emotion,distress,0.702157,0.26787964,0.02996341
+situation,Study up on other diets. Maybe this one does not work.,emotion,distress,0.7498069,0.238141,0.0120521085
+situation,I feel bad about disappointing my family,emotion,distress,0.9563436,0.03968876,0.003967612
+situation,My family may not forgive me,emotion,distress,0.95726764,0.040244736,0.0024875577
+situation,I love them and do not want to hurt them.,emotion,distress,0.10390303,0.29464495,0.601452
+situation,I delayed the visit from my family. They had been planning this for 6 months. I am too busy.,emotion,distress,0.67511594,0.30184826,0.02303575
+situation,Sad,emotion,distress,0.6989043,0.26401702,0.037078775
+situation,"I would offer that they could still come, but realize that I will not always be available",emotion,distress,0.24104354,0.6777162,0.081240214
+situation,Panic. I was afraid that the dog might be harmed,emotion,distress,0.87256765,0.12226194,0.0051704724
+situation,The dog would die,emotion,distress,0.87527835,0.11349091,0.0112307705
+situation,My sister would be heartbroken and I would be devastated,emotion,distress,0.92293024,0.070688866,0.006380945
+situation,My sister would never forgive me.,emotion,distress,0.9222602,0.073230565,0.004509195
+situation,I was dog sitting for my sister. The dog ate xylitol and it could cause damage to the dog. I quickly called the vet and had to make the dog throw up. Blood tests indicate that the dog will be fine. ,emotion,distress,0.59658706,0.3303398,0.073073104
+situation,Fear,emotion,distress,0.51918596,0.44798958,0.032824423
+situation,I would do everything I could to save the dog.,emotion,distress,0.032650385,0.35054696,0.6168027
+situation,No one cares about my feelings.,emotion,distress,0.83112675,0.16061307,0.0082600955
+situation,I am not worthy of respect.,emotion,distress,0.95296645,0.043098837,0.0039347745
+situation,People do not recognize me as important.,emotion,distress,0.80042106,0.18491548,0.014663452
+situation,People will look down on me.,emotion,distress,0.84735787,0.14394495,0.008697237
+situation,I am on my break and my boss wants me to return to work to get something done.,emotion,distress,0.04127268,0.7231375,0.23558988
+situation,Upset,emotion,distress,0.7942077,0.18686028,0.018932084
+situation,I would do nothing.,emotion,distress,0.4762969,0.4869033,0.036799774
+situation,I will not be able to succeed.,emotion,distress,0.9462987,0.050463993,0.003237218
+situation,I will not be able to accomplish other things in life.,emotion,distress,0.8430301,0.14652607,0.010443901
+situation,I will never have the things I want.,emotion,distress,0.7108582,0.25844097,0.030700853
+situation,I will never be happy.,emotion,distress,0.96957177,0.026851168,0.0035770268
+situation,"I have been trying to maintain a diet, but I find out that I have gained weight as a result.",emotion,distress,0.7695626,0.21855164,0.01188567
+situation,Embarrassed,emotion,distress,0.8140446,0.16795975,0.01799568
+situation,I would try another diet.,emotion,distress,0.042154938,0.821945,0.1359001
+situation,I am boring.,emotion,distress,0.93238074,0.055071563,0.012547606
+situation,No one will talk to me.,emotion,distress,0.7746542,0.21217202,0.013173844
+situation,I will not have friends.,emotion,distress,0.90876925,0.08509121,0.0061395676
+situation,I will be depressed.,emotion,distress,0.93439376,0.060777098,0.0048290864
+situation,I am trying to talk to someone at a party but they are ignoring me.,emotion,distress,0.7720931,0.20995525,0.017951645
+situation,Anxious,emotion,distress,0.5977955,0.3667556,0.035448875
+situation,I would find someone else to talk to.,emotion,distress,0.14786069,0.76913184,0.083007514
+situation,I am not good enough.,emotion,distress,0.93075883,0.06214814,0.007092998
+situation,No one will ever love me.,emotion,distress,0.80992925,0.17227456,0.017796217
+situation,I will not find love.,emotion,distress,0.77729684,0.20361115,0.019091962
+situation,I will be alone forever.,emotion,distress,0.7963336,0.18903987,0.014626465
+situation,I was on the phone with my boyfriend and he got a call on the other line. I assumed it was another girl calling him.,emotion,distress,0.3129288,0.6210135,0.06605772
+situation,Jealous,emotion,distress,0.62541395,0.3315767,0.04300929
+situation,I would ask if my boyfriend was cheating.,emotion,distress,0.3968438,0.5874009,0.015755353
+situation,They do not like me.,emotion,distress,0.9214179,0.07429232,0.0042897873
+situation,I am not interesting.,emotion,distress,0.95650685,0.037458487,0.006034589
+situation,I will not have any friends.,emotion,distress,0.90891814,0.08462643,0.006455455
+situation,I will be lonely.,emotion,distress,0.80845106,0.17717388,0.014375121
+situation,"I see someone I know and wave at them, but they do not acknowledge me.",emotion,distress,0.47521824,0.4812762,0.043505523
+situation,Disappointed,emotion,distress,0.8385973,0.14692146,0.014481248
+situation,I would make other friends.,emotion,distress,0.009383828,0.35082096,0.63979524
+situation,I don't know if I have enough time to finish this work.,emotion,distress,0.8265823,0.15862568,0.014791974
+situation,I did not manage my time well. ,emotion,distress,0.92597425,0.06700774,0.007018054
+situation,The boss is not going to be happy with my work.,emotion,distress,0.91754746,0.07786909,0.004583432
+situation,I'm might get fired.,emotion,distress,0.86218446,0.13004406,0.007771494
+situation,I will have to get another job.,emotion,distress,0.29227877,0.64077944,0.06694178
+situation,I'm having a break and my boss stops by and reminds about some work that needs to be done today.,emotion,distress,0.089781396,0.7986601,0.11155846
+situation,nervous,emotion,distress,0.39424977,0.54245025,0.06330005
+situation,Try to get the job done on time.,emotion,distress,0.1535763,0.73914844,0.107275315
+situation,I really wanted to get this job. I'm so tired of job hunting.,emotion,distress,0.60265857,0.28487182,0.11246963
+situation,I might never get hired.,emotion,distress,0.818544,0.17123912,0.010216909
+situation,No one thinks I am good enough to work for them.,emotion,distress,0.81922686,0.16942696,0.011346158
+situation,I've been applying for jobs and just got a call that someone else filled a position I applied for.,emotion,distress,0.26096973,0.6772297,0.061800577
+situation,disappointed,emotion,distress,0.8419006,0.14321719,0.014882275
+situation,Keep applying for other positions.,emotion,distress,0.13538617,0.80640686,0.05820699
+situation,I'm glad he feels the same way that I do.,emotion,distress,0.0057787094,0.09377136,0.90044993
+situation,I come home to find my lover has pack up his belongings because he is leaving me.,emotion,distress,0.43780684,0.5102864,0.051906757
+situation,relief,emotion,distress,0.058404665,0.73277634,0.20881909
+situation,Wish him well in his life.,emotion,distress,0.0048167575,0.1294442,0.86573905
+situation,He does not like me.,emotion,distress,0.86975753,0.12378841,0.0064540277
+situation,I'm not an interesting person.,emotion,distress,0.9438427,0.05059504,0.0055622654
+situation,I'm at a party and try to strike up a conversation with someone who turns and walks away.,emotion,distress,0.41082147,0.5476373,0.041541286
+situation,hurt,emotion,distress,0.6541397,0.31084242,0.035017896
+situation,find another person to talk to,emotion,distress,0.22412361,0.71801126,0.05786514
+situation,I really need to do and complete this task because I need the money.,emotion,distress,0.124512106,0.6765045,0.19898342
+situation,If I don't do it and complete it then I won't get paid.  And I have bills to pay.,emotion,distress,0.81147456,0.17254333,0.015982158
+situation,I received a task in the last 30 minutes of my work day.  I was concerned that I would not have enough time to complete it.  ,emotion,distress,0.7376136,0.23678751,0.025598899
+situation,nervous,emotion,distress,0.39424977,0.54245025,0.06330005
+situation,I worked on the task and I had to go overtime of my work shift to complete it.,emotion,distress,0.31009716,0.6430081,0.04689469
+situation,Why cant life just let things happen. ,emotion,distress,0.47845304,0.43125173,0.090295196
+situation,"I cant believe i had to do that, they will hate me",emotion,distress,0.95952415,0.036075942,0.004399954
+situation,I feel like im getting further away from them,emotion,distress,0.7874038,0.20325397,0.009342263
+situation,We will never get to see eachother,emotion,distress,0.8548452,0.13216013,0.0129946675
+situation,Had to postpone visit with parents because life is busy busy. ,emotion,distress,0.77963644,0.20395216,0.016411446
+situation,dissapointment,emotion,distress,0.65881306,0.31089368,0.030293262
+situation,Do my best to not let that happen again.  Family is important and life should be able to support that,emotion,distress,0.0627426,0.35822052,0.5790369
+situation,How could i do this? ,emotion,distress,0.8330916,0.15461254,0.012295815
+situation,"Need to figure out what the cause was, if it was me i need to try to do better.",emotion,distress,0.24531762,0.68685085,0.06783147
+situation,That i wasnt prepared for this job and need to see if thats what i want,emotion,distress,0.7896288,0.19795837,0.012412846
+situation,"oh, no how will i afford this",emotion,distress,0.9249792,0.06831841,0.0067022876
+situation,Got fired for not meeting quotas,emotion,distress,0.85083216,0.14237098,0.0067967908
+situation,Upset,emotion,distress,0.7942077,0.18686028,0.018932084
+situation,Try to figure out what it is that i need to improve on and ask myself if this is the right career for me,emotion,distress,0.21857081,0.7359572,0.045471996
+situation,only the bad ones get rejected before even being interviewed,emotion,distress,0.7875334,0.20410962,0.008357063
+situation,That i failed and didnt perform my best,emotion,distress,0.9050394,0.08834284,0.0066176974
+situation,that i wont find a job,emotion,distress,0.6648048,0.31209987,0.023095334
+situation,"Working somewhere that doesnt give me pleasure, might as well end it then. ",emotion,distress,0.80620164,0.16751048,0.026287887
+situation,No job offer after multiple submitions of a resume. ,emotion,distress,0.4086766,0.5467983,0.04452512
+situation,helpless,emotion,distress,0.34813687,0.5836615,0.06820162
+situation,Ask myself is this is what i want.  Check resume.  Try to be at my best. ,emotion,distress,0.13216858,0.670268,0.19756338
+situation,Am I doing enough,emotion,distress,0.33269265,0.6202397,0.04706775
+situation,That im ashamed to be so anxious about not doing right. ,emotion,distress,0.9020487,0.089270994,0.00868032
+situation,That i will disappoint my family,emotion,distress,0.9518523,0.04470485,0.0034428104
+situation,My dad is in the next room in his hospice bed and im afraid of not doing everything right.,emotion,distress,0.92145336,0.073598534,0.0049481527
+situation,helpless,emotion,distress,0.34813687,0.5836615,0.06820162
+situation,Try my best and hope that everyone understands,emotion,distress,0.00927604,0.19623691,0.7944871
+situation,Did they not notice me or did they really just do that. ,emotion,distress,0.4628666,0.50818634,0.028947027
+situation,that i thought our friendship was more friendlier then that. ,emotion,distress,0.053563517,0.44390097,0.5025355
+situation,Did i overestimate his interest?,emotion,distress,0.51774734,0.46275285,0.01949984
+situation,I bet they think im ridiculous,emotion,distress,0.72498316,0.24784917,0.027167669
+situation,Person I have a crush on is at the same gathering.  I waved and he didnt respond. ,emotion,distress,0.52786577,0.42649755,0.045636673
+situation,surprise,emotion,distress,0.011428021,0.18452981,0.80404216
+situation,"Assume that they were busy and try next time.  If it happens again though, its down. ",emotion,distress,0.5203274,0.43504435,0.04462831
+situation,I'd be worried about failing the class and having to repeat it.,emotion,distress,0.92935085,0.067053236,0.0035959026
+situation,I'd know I'm a failure and would waste money on another college course.,emotion,distress,0.9407383,0.055108745,0.004152967
+situation,I can't figure out what to write for my essay.,emotion,distress,0.85663056,0.1326109,0.010758622
+situation,dumbfounded,emotion,distress,0.7841831,0.17976892,0.03604803
+situation,"Study harder, try and think of ways to kickstart my brain juices.",emotion,distress,0.09994841,0.64670354,0.25334808
+situation,What if I never find a job?,emotion,distress,0.6834445,0.30052918,0.016026268
+situation,"I'd have no income, and would be poor.",emotion,distress,0.8502031,0.13972928,0.010067576
+situation,"I wouldn't be able to do things I enjoy, or buy things I want.",emotion,distress,0.47693893,0.41762084,0.10544021
+situation,"I'd be even more depressed, and would be stuck in a rut.",emotion,distress,0.9568026,0.040545844,0.0026515406
+situation,"I can't land a job, and just got declined again.",emotion,distress,0.9349997,0.06031703,0.0046832827
+situation,depressed,emotion,distress,0.65781635,0.30875486,0.0334288
+situation,Apply for more jobs and polish up my resume.,emotion,distress,0.018776432,0.68769425,0.29352933
+situation,What if I never see her again?,emotion,distress,0.6834674,0.30411017,0.012422414
+situation,"I'd be very sad, I'm not sure if I could love again.",emotion,distress,0.9130912,0.07727738,0.009631434
+situation,I'd be lonely for the rest of my life.,emotion,distress,0.91059005,0.08352487,0.0058851037
+situation,"My love is leaving, and there's no turning back.",emotion,distress,0.18368089,0.5092,0.30711916
+situation,sadness,emotion,distress,0.7985736,0.17381062,0.02761575
+situation,Try and work things out.,emotion,distress,0.08547145,0.79658926,0.11793935
+situation,Thinking if I'm not that uninteresting after all,emotion,distress,0.45462224,0.5068987,0.038479097
+situation,"Not much really, I'd be okay if I was uninteresting.",emotion,distress,0.3889025,0.514655,0.0964425
+situation,The host isn't interested in talking to me.,emotion,distress,0.86855704,0.1252669,0.0061760484
+situation,Sad,emotion,distress,0.6989043,0.26401702,0.037078775
+situation,Try and talk to other people.,emotion,distress,0.107580714,0.8132771,0.07914217
+situation,Why can't I have fun? Why must I stay home all the time?,emotion,distress,0.9045288,0.084208176,0.011263066
+situation,It would mean my life is very boring and uninspiring. I wouldn't know what to do.,emotion,distress,0.96458864,0.031924263,0.0034870775
+situation,"I'd probably break the relationship up, and find someone more welcoming.",emotion,distress,0.2592386,0.60901016,0.13175127
+situation,"My girlfriend was sad that I wanted to go out with my friends, and started a fight.",emotion,distress,0.8083914,0.18159132,0.010017271
+situation,anger,emotion,distress,0.38028437,0.46144688,0.15826876
+situation,"Talk about the situation, and discuss why I want to do so.",emotion,distress,0.027080497,0.90916723,0.06375236
+situation,They don't want to be my friend.,emotion,distress,0.80767626,0.18393174,0.008391947
+situation,"It would be upsetting, since I became fond enough of them to ask them to do something outside of work. It would probably mean the feelings were entirely one sided.",emotion,distress,0.7071993,0.25932378,0.03347702
+situation,I am not a great judge of character.,emotion,distress,0.6092618,0.3657822,0.024955975
+situation,"People who agree to hang out with me, may not actually want to.",emotion,distress,0.51206976,0.45853668,0.029393531
+situation,I may have less real friends then I actually think I do.,emotion,distress,0.6476376,0.331474,0.020888448
+situation,"I asked a co-worker whom I'm friendly with if they wanted to do something out of work, but they tell me they are too busy.",emotion,distress,0.43901083,0.5154292,0.045559924
+situation,Disappointed ,emotion,distress,0.7711799,0.20333076,0.025489427
+situation,Ask them another time to get a better idea of the situation.,emotion,distress,0.14516065,0.8130442,0.04179515
+situation,That my mind can't even come up with a starting point to the essay.,emotion,distress,0.80309105,0.18099964,0.015909279
+situation,Very upsetting. It would say I don't even know where to begin.,emotion,distress,0.94923145,0.046496067,0.0042724437
+situation,I am not well informed on the subject and not capable of completing the essay.,emotion,distress,0.94819564,0.04935103,0.0024533905
+situation,I can't even think of how to start an essay I've been working on for 2 hours.,emotion,distress,0.88942933,0.10141497,0.009155735
+situation,Frustrated,emotion,distress,0.8021976,0.17753057,0.020271935
+situation,Ask for help.,emotion,distress,0.24356443,0.6971186,0.059316956
+situation,That I applied several places and had no success in finding a new job.,emotion,distress,0.77844745,0.20871301,0.012839569
+situation,"It would be upsetting since, if I'm looking for a new job I need one. It would say I may not be able to find a new job.",emotion,distress,0.8639296,0.12670977,0.009360644
+situation,I may not be qualified for any position that appeals to me.,emotion,distress,0.86142975,0.13187814,0.006692159
+situation,I may not be able to earn more money at a better job.,emotion,distress,0.6923304,0.27053276,0.03713676
+situation,I may not be able to financially improve the quality of my life.,emotion,distress,0.8898875,0.1040148,0.006097761
+situation,I was informed for the 3rd time this week a job I applied for was filled by someone other then me.,emotion,distress,0.27744383,0.6490654,0.07349079
+situation,Disappointed,emotion,distress,0.8385973,0.14692146,0.014481248
+situation,Keep applying for new jobs.,emotion,distress,0.030619787,0.7783326,0.19104756
+situation,That I'm not a very interesting person.,emotion,distress,0.9053978,0.0872228,0.0073794085
+situation,I would be only moderately upset. It would say that I am not that social of a person.,emotion,distress,0.7912079,0.19412692,0.014665139
+situation,I'm at a party and I don't know anyone other then the person running it. I try and talk with someone but he does not seem interested at all and eventually walks away.,emotion,distress,0.87332326,0.11657365,0.010103108
+situation,annoyed,emotion,distress,0.77359766,0.20160803,0.02479438
+situation,Move on.,emotion,distress,0.17848325,0.64068675,0.18082997
+situation,There was no need to even say anything it was very minor.,emotion,distress,0.056319207,0.693532,0.2501488
+situation,I did and do a good job with my work. It would say either I'm not as good as I think and accept criticism or I should just let this go.,emotion,distress,0.36934847,0.4704967,0.16015486
+situation,I had a complaint against my work which I felt unnecessary to bring to my attention as it was very minor. ,emotion,distress,0.78540546,0.20325507,0.011339468
+situation,Annoyed ,emotion,distress,0.7255273,0.243375,0.03109778
+situation,Stay annoyed for a few days then forget about it.,emotion,distress,0.7846829,0.19844419,0.016872915
+situation,My boss must think I'm lazy.,emotion,distress,0.7140916,0.25764436,0.028264035
+situation,He could give me a poor performance review.,emotion,distress,0.8972104,0.09840504,0.004384543
+situation,I could get fired.,emotion,distress,0.81656444,0.17164409,0.011791575
+situation,I could be unable to afford to pay my bills.,emotion,distress,0.9104867,0.0842972,0.0052161883
+situation,I was on a coffee break and my boss reminded me of work that needs to get done.,emotion,distress,0.15644972,0.67816436,0.16538589
+situation,anxious,emotion,distress,0.5813285,0.382689,0.035982527
+situation,I would resume working immediately.,emotion,distress,0.007889581,0.21116917,0.7809412
+situation,I must be an annoying person.,emotion,distress,0.97084177,0.026419664,0.002738638
+situation,No one will want to spend time with me.,emotion,distress,0.9033737,0.09074726,0.005879093
+situation,I will be lonely forever.,emotion,distress,0.8427074,0.14285423,0.014438316
+situation,I became close with a coworker and invited them to go out but they turned me down.,emotion,distress,0.3139531,0.5802316,0.10581531
+situation,disappointment,emotion,distress,0.8513238,0.12914766,0.01952861
+situation,I would try to work on improving myself as a person.,emotion,distress,0.014250349,0.4372703,0.5484793
+situation,I am a failure.,emotion,distress,0.96358967,0.03234038,0.004069956
+situation,I cannot complete tasks that I put effort into.,emotion,distress,0.85980934,0.12995653,0.010234139
+situation,I am not a capable person.,emotion,distress,0.95417714,0.04244085,0.0033820078
+situation,I have been dieting and recently weighed in to find that I gained a pound.,emotion,distress,0.27789494,0.6601642,0.06194085
+situation,upset,emotion,distress,0.6399727,0.3158305,0.044196833
+situation,I would try to focus more on my diet.,emotion,distress,0.05677665,0.7770409,0.16618247
+situation,I did something to make them not love me.,emotion,distress,0.6823333,0.29647693,0.02118976
+situation,I have an unloveable personality.,emotion,distress,0.5978644,0.25459534,0.14754023
+situation,No one will ever love me or stay with me.,emotion,distress,0.7048972,0.26706463,0.028038252
+situation,I will die alone.,emotion,distress,0.91604203,0.07503605,0.008921969
+situation,My partner has left our home and left a note saying they are done with the relationship.,emotion,distress,0.29158992,0.6890709,0.019339204
+situation,sad,emotion,distress,0.7283445,0.22596292,0.045692593
+situation,I would try to find out what is bad about me and work on improving it.,emotion,distress,0.37982225,0.5502405,0.06993724
+situation,I am incapable of doing anything right.,emotion,distress,0.9564906,0.040416304,0.0030931402
+situation,My boss will think poorly of me and my work.,emotion,distress,0.87376684,0.119942755,0.006290428
+situation,My boss will think poorly of me and my work.,emotion,distress,0.87376684,0.119942755,0.006290428
+situation,I will get fired.,emotion,distress,0.8376082,0.14864539,0.013746345
+situation,I will be unable to reach my savings goals.,emotion,distress,0.87088126,0.12070952,0.008409213
+situation,My boss pointed out an unintentional error in my work.,emotion,distress,0.74454266,0.24537237,0.010084932
+situation,anxiety,emotion,distress,0.593059,0.37307325,0.033867713
+situation,I should apologize for the mistake and work to do better in the future.,emotion,distress,0.15564093,0.5277383,0.3166208
+situation,I'm not good enough for them to like me.,emotion,distress,0.76762944,0.21160325,0.020767208
+situation,I'm not attractive or have a good enough personality.,emotion,distress,0.865879,0.11923344,0.014887519
+situation,I won't be able to get anyone to like me or hangout with me.,emotion,distress,0.7192893,0.25616834,0.024542345
+situation,I won't have any new friends or partners.,emotion,distress,0.549136,0.41447538,0.036388643
+situation,I'm never going to get married and have a family.,emotion,distress,0.7770852,0.20258148,0.020333368
+situation,I'm going to be alone forever.,emotion,distress,0.8541126,0.13502832,0.010859097
+situation,"I am quite fond of a coworker and decide to talk to them. I offer up the idea that it might be fun to go out together sometime, and they respond with the fact they are too busy.",emotion,distress,0.0019891004,0.022889413,0.97512144
+situation,embarassment,emotion,distress,0.5749634,0.3893892,0.035647377
+situation,I would try to strike up more conversations with people to work on my social skills,emotion,distress,0.00945519,0.58598727,0.40455762
+situation,I'm not as good at what I'm doing as I used to be.,emotion,distress,0.76623267,0.2060889,0.027678434
+situation,Other people are probably doing it better than me. ,emotion,distress,0.15394177,0.47361633,0.3724419
+situation,I'm not as needed as I once was because other people are better.,emotion,distress,0.4370632,0.43145874,0.13147806
+situation,I will lose my job eventually.,emotion,distress,0.94059044,0.054945484,0.004464092
+situation,I won't know what to do with my life.,emotion,distress,0.8930082,0.09964413,0.007347723
+situation,People will be disappointed in me.,emotion,distress,0.94927573,0.047464453,0.0032598476
+situation,I've been sitting at my desk for a long time and I haven't been able to get anything done.,emotion,distress,0.9460851,0.051142935,0.0027719517
+situation,anxious,emotion,distress,0.5813285,0.382689,0.035982527
+situation,Work as hard as I can to get better and faster.,emotion,distress,0.0039790636,0.098854534,0.8971664
+situation,I'm a failure and can't keep a sales person job.,emotion,distress,0.9544991,0.04236897,0.0031319421
+situation,I would have lost my income and everything I was working toward for the past 6 months.,emotion,distress,0.7898569,0.19885449,0.011288665
+situation,I was wasting my time and I'm a disappointment.,emotion,distress,0.976646,0.0200914,0.003262534
+situation,Everyone will be disappointed in me and I'll have to rely on them for help.,emotion,distress,0.9479497,0.048974372,0.0030759224
+situation,I just got fired from working as a sales person because I didn't reach my quota. I had never had a job like this before this.,emotion,distress,0.9198718,0.073487945,0.006640292
+situation,depressed,emotion,distress,0.65781635,0.30875486,0.0334288
+situation,I would try to get another job as soon as possible and work as hard as ever to prove myself wrong.,emotion,distress,0.07320652,0.49897867,0.42781475
+situation,I'm really bad at everything I do.,emotion,distress,0.9679624,0.028259214,0.0037783165
+situation,I can't ever do anything as good as everyone else.,emotion,distress,0.5939603,0.32208532,0.08395436
+situation,I won't ever get to the top of something. I won't ever be great at something that I do.,emotion,distress,0.7715555,0.1911416,0.037302937
+situation,Everyone will think i'm stupid.,emotion,distress,0.870282,0.118438475,0.011279537
+situation,My boyfriend made fun of me for losing a game. I got upset and we had an argument.,emotion,distress,0.8527331,0.13368502,0.013581965
+situation,sadness,emotion,distress,0.7985736,0.17381062,0.02761575
+situation,I would work as hard as possible to find something I'm good at.,emotion,distress,0.013689572,0.23342805,0.75288236
+situation,He doesn't like me because I'm not good enough.,emotion,distress,0.8903693,0.10355471,0.006076025

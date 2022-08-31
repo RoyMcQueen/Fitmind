@@ -1,0 +1,57 @@
+{% extends "base.html" %} {% block title %} Your Mind {% endblock %} {% block content
+    %}
+    <br />
+
+    <h1 align="center">Your Mind</h1>
+
+    <link rel="stylesheet" href="../static/css/mind_index.css">
+
+    <br />
+    <br />
+
+    <div class="container text-center">
+        <div class="row">
+          <div class="col">
+              <img src="{{url_for('static', filename='images/wc.png')}}" align="middle"/>
+          </div>
+          <div class="col">
+            <img src="{{url_for('static', filename='images/freq_plot.png')}}" align="right" />
+          </div>
+        </div>
+      </div>
+
+      <br />
+
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="card">
+            <div class="card-body">
+              <h5 style="text-align:center" class="card-title">Wordcloud</h5>
+              <p style="text-align:center" class="card-text">Most frequent words on your mind.</p>
+            
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="card">
+            <div class="card-body">
+                <h5 style="text-align:center" class="card-title">Pairs</h5>
+                <p style="text-align:center" class="card-text">Most commonly paired words in your thoughts.</p>
+        
+            </div>
+          </div>
+        </div>
+      </div>
+  
+
+    <br />
+    <br />
+    <br />
+
+
+
+    
+
+
+
+{% endblock %}

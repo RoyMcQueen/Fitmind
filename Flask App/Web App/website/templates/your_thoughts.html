@@ -1,0 +1,65 @@
+{% extends "base.html" %} {% block title %}Your Thoughts{% endblock %} {% block content
+    %}
+<link rel="stylesheet" href="../static/css/thoughts.css">
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body
+      {
+        background-image: url({{ url_for('static', filename='images/thoughts.jpeg') }})
+      }
+    </style>
+    
+    
+  </head>
+  <body>
+  
+  
+    <h1 align="center">Thoughts</h1>
+
+    
+
+      
+
+
+      <form method="POST">
+
+        <label for="exampleFormControlSelect1"></label>
+        
+          <textarea name="thought" id="thought" class="form-control"></textarea>
+          <br />
+
+          <div align="center">
+            <button type="submit" class="btn btn-primary">Add Thought</button>
+          </div>
+
+          <br />
+
+          <br />
+
+      </form>
+      <div class="row">
+        <div class="col-sm-6" style="width:800px; margin:0 auto;">
+          <div class="card" style="background-color:rgb(58, 104, 183);"> 
+            <div class="card-body">
+                <h5 style="text-align:center" class="card-title">Total Thoughts Submitted:</h5>
+                <p style="text-align:center" class="card-text">{{len_thoughts}}</p>
+      
+          </div>
+      </div>
+      <br />
+
+      <br />
+      
+      <br />
+  </body>
+
+
+{% endblock %}

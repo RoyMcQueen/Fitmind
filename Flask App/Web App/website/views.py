@@ -97,13 +97,13 @@ def your_mind():
     word_pairs = word_frequency_pairs(text)
 
 
-    try:
+    # try:
 
-        word_cloud = wordclouding(word_freq) ## render image ?
-        freq_plot = plotting_frequency(word_pairs)
+    word_cloud = wordclouding(word_freq) ## render image ?
+    freq_plot = plotting_frequency(word_pairs)
 
-    except:
-        print("An exception occurred")
+    # except:
+        #print("An exception occurred")
 
     return render_template("your_mind.html",user = current_user, tables=[word_freq.to_html(classes='data')], titles=word_freq.columns.values)
 
@@ -126,13 +126,13 @@ def your_patients():
     
 
     if request.method == 'GET':
-        queryid = "SELECT id, first_name FROM USER WHERE role = 'User'"
+        queryid = "SELECT id, first_name, email FROM USER WHERE role = 'User'"
 
         cursor.execute(queryid)
         result = cursor.fetchall()
 
 
-        userdf = pd.DataFrame(result, columns=['id', 'name'])
+        userdf = pd.DataFrame(result, columns=['id', 'name', 'email'])
 
 
         return render_template("your_patients.html", user=current_user,userdf=userdf)
@@ -177,6 +177,8 @@ def your_patients():
         try:
             sent_scores.columns = ['Negative', 'Neutral', 'Positive']
             plot_spec(sent_scores.index,sent_scores['Positive'])
+            
+            
 
 
         except:

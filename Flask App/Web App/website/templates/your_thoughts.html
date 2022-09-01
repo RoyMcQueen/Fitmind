@@ -13,7 +13,7 @@
     <style>
       body
       {
-        background-image: url({{ url_for('static', filename='images/thoughts.jpeg') }})
+        background-image: url({{ url_for('static', filename='images/sky.jpeg') }})
       }
     </style>
     
@@ -22,7 +22,7 @@
   <body>
   
   
-    <h1 align="center">Thoughts</h1>
+    <h1 align="center" style = "text-shadow: 2px 2px 5px rgb(156, 149, 149)">Thoughts</h1>
 
     
 
@@ -32,12 +32,12 @@
       <form method="POST">
 
         <label for="exampleFormControlSelect1"></label>
-        
+
           <textarea name="thought" id="thought" class="form-control"></textarea>
           <br />
 
           <div align="center">
-            <button type="submit" class="btn btn-primary">Add Thought</button>
+            <button type="submit" class="btn btn-primary" style="border:none; background-color:rgba(54, 187, 227, 0.776); width:120px; height:60px; margin:0">  Add Thought</button>
           </div>
 
           <br />
@@ -47,9 +47,9 @@
       </form>
       <div class="row">
         <div class="col-sm-6" style="width:800px; margin:0 auto;">
-          <div class="card" style="background-color:rgb(58, 104, 183);"> 
-            <div class="card-body">
-                <h5 style="text-align:center" class="card-title">Total Thoughts Submitted:</h5>
+          
+            <div class="card-body" style = "color:rgb(148, 148, 150)">
+                <h5 style="text-align:center" class="card-title" >Total Thoughts Submitted:</h5>
                 <p style="text-align:center" class="card-text">{{len_thoughts}}</p>
       
           </div>

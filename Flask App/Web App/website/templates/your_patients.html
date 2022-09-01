@@ -12,24 +12,34 @@
       <table class="table table-bordered">
         <thead>
           <tr>
-            <th style="text-align:center" scope="col">Sentiment Analysis</th>
+            <th style="background-color:#274af892; text-align:center; color:white" scope="col">Sentiment Analysis</th>
+            <th scope="col" style="background-color:rgba(54, 187, 227, 0.776); color:white; text-align:center;width:540px"  >Email</th>
           </tr>
+          
         </thead>
         <tbody>
 
-          {% for index,user in userdf.iterrows() %}
-          <form method="POST">
+          {% for index,user in userdf.iterrows() %} 
+          <form method="POST">  
             <tr>
             
              
                 <td style="text-align:center">
 
-                  <button style="-align:center" type="submit" class="btn btn-primary" name="userbutton" value="{{user['id']}}">{{ user['name'] }}</button> 
+                  <button style="-align:center;background-color:#274af83d; border:none;" type="submit" class="btn btn-primary" name="userbutton" value="{{user['id']}}">{{ user['name'] }}</button> 
               
                 </td>   
          
+                <th scope="row" style="text-align:center">
+                  {{ user['email'] }}
+                </th>
               
+
             </tr>
+
+              
+
+
           </form>
           {% endfor %} 
         </tbody>

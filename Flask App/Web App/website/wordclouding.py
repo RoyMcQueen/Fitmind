@@ -21,7 +21,7 @@ def wordclouding(text_df):
 
     plt.rcParams['figure.dpi'] = 50
     # Create a word cloud image
-    wc = WordCloud(background_color="white", max_words=150, mask=transformed_face_mask,
+    wc = WordCloud(background_color="rgb(110, 160, 246)", max_words=150, mask=transformed_face_mask,
                 contour_width=0.01, contour_color='black', colormap='plasma', collocations=False)
 
     # Generate a wordcloud

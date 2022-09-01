@@ -70,8 +70,15 @@ def sign_up():
                 password1, method='sha256'))
             db.session.add(new_user)
             db.session.commit()
-            login_user(new_user)
-            flash('Account created!', category='success')
-            return redirect(url_for('views.your_thoughts'))
+
+            if role == 'User':
+                login_user(new_user)
+                flash('Account created!', category='success')
+                return redirect(url_for('views.your_thoughts'))
+            elif role == 'Specialist':
+                login_user(new_user)
+                flash('Account created!', category='success')
+                return redirect(url_for('views.your_patients'))
 
     return render_template("sign_up.html", user=current_user)
+    

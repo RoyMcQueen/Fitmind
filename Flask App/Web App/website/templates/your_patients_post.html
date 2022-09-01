@@ -26,11 +26,15 @@
         background-color: #5297f8;
     }
 </style>
+<br />
 
 {% for table in tables %}
 {{ table|safe }}
 {% endfor %}  
-
+<br />
+<br />
+<br />
+<br />
 
 <img src="{{url_for('static', filename='images/line_plot.png')}}" align="middle"/>
 

@@ -25,20 +25,20 @@ let track_list = [
   {
     name: "Lichen",
     artist: "Aphex Twin ",
-    image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://lastfm.freetls.fastly.net/i/u/770x0/518f19dd2429400dc0a4f14a52f1f337.jpg",
     path: "https://www64.zippyshare.com/d/gHXZ6P3W/1157628/2.08.%20Aphex%20Twin%20-%20Lichen.mp3"
   },
   {
     name: "Subtle Body",
     artist: "Fila Brazilia",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://i.scdn.co/image/ab67616d0000b273e692562ba9d32ca63bc23665",
     path: "https://www60.zippyshare.com/d/fVKL7Zw3/2515459/07%20-%20Fila%20Brazilia%20-%20Subtle%20body.mp3"
   }
   ,
   {
     name: "Avril 14th",
     artist: "Aphex Twin",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://upload.wikimedia.org/wikipedia/pt/thumb/2/26/Drukqs.jpeg/220px-Drukqs.jpeg",
     path: "https://www64.zippyshare.com/d/c299HEp7/732/1-09%20Avril%2014th.mp3"
   },
 ];

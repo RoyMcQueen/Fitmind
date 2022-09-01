@@ -97,13 +97,13 @@ def your_mind():
     word_pairs = word_frequency_pairs(text)
 
 
-    # try:
+    try:
 
-    word_cloud = wordclouding(word_freq) ## render image ?
-    freq_plot = plotting_frequency(word_pairs)
+        word_cloud = wordclouding(word_freq) ## render image ?
+        freq_plot = plotting_frequency(word_pairs)
 
-    # except:
-        #print("An exception occurred")
+    except:
+        print("An exception occurred")
 
     return render_template("your_mind.html",user = current_user, tables=[word_freq.to_html(classes='data')], titles=word_freq.columns.values)
 
@@ -170,7 +170,7 @@ def your_patients():
 
         # thought_entries_df.loc[len(thought_entries_df.index)] = thought_entry_specialist('what is this')
 
-        sent_scores = thoughts_specialist[:50].apply(spec_apply, axis = 1)
+        sent_scores = thoughts_specialist[-50:].apply(spec_apply, axis = 1)
 
         sent_scores = pd.DataFrame.from_dict(dict(zip(sent_scores.index, sent_scores.values))).transpose()
 

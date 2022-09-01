@@ -26,7 +26,7 @@ let track_list = [
     name: "Lichen",
     artist: "Aphex Twin ",
     image: "https://lastfm.freetls.fastly.net/i/u/770x0/518f19dd2429400dc0a4f14a52f1f337.jpg",
-    path: "https://www64.zippyshare.com/d/gHXZ6P3W/1157628/2.08.%20Aphex%20Twin%20-%20Lichen.mp3"
+    path: "https://www64.zippyshare.com/d/gHXZ6P3W/592707/2.08.%20Aphex%20Twin%20-%20Lichen.mp3"
   },
   {
     name: "Subtle Body",

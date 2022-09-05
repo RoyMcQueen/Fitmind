@@ -1,6 +1,6 @@
 # Fitmind
 
-### A simple mindfulness app that encourages meditators to submit their own thoughts for greater insights into their minds.
+### A simple mindfulness app that encourages meditators to submit their own thoughts for greater insights into their minds, through machine learning sentiment analysis and data analysis techniques.
 
 
 #### App preview

@@ -1,6 +1,9 @@
 # Fitmind
 
-## A simple mindfulness app that encourages meditators to submit their own thoughts for greater insights into their minds
+### A simple mindfulness app that encourages meditators to submit their own thoughts for greater insights into their minds.
+
+
+#### App preview
 
 <img width="1437" alt="Screenshot 2022-09-05 at 15 00 50" src="https://user-images.githubusercontent.com/99211748/188467257-6b591d1d-ba87-491e-8dc3-cd551295b70a.png">
 <img width="1424" alt="Screenshot 2022-09-05 at 15 01 14" src="https://user-images.githubusercontent.com/99211748/188467294-13046136-4584-4c19-be84-78ddcde62bdf.png">

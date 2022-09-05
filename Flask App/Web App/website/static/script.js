@@ -23,16 +23,16 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Lichen",
-    artist: "Aphex Twin ",
-    image: "https://lastfm.freetls.fastly.net/i/u/770x0/518f19dd2429400dc0a4f14a52f1f337.jpg",
-    path: "https://www64.zippyshare.com/d/gHXZ6P3W/592707/2.08.%20Aphex%20Twin%20-%20Lichen.mp3"
+    name: "Autumn Mvt 3 Allegro",
+    artist: "Vivaldi ",
+    image: "https://static.tomplay.com/wp-content/uploads/2018/09/Antonio-Vivaldi-Violin-Concerto-in-G-minor-RV-317.jpg",
+    path: "https:\/\/files.freemusicarchive.org\/storage-freemusicarchive-org\/music\/Oddio_Overplay\/John_Harrison_with_the_Wichita_State_University_Chamber_Players\/The_Four_Seasons_Vivaldi\/John_Harrison_with_the_Wichita_State_University_Chamber_Players_-_09_-_Autumn_Mvt_3_Allegro.mp3"
   },
   {
-    name: "Subtle Body",
-    artist: "Fila Brazilia",
-    image: "https://i.scdn.co/image/ab67616d0000b273e692562ba9d32ca63bc23665",
-    path: "https://www60.zippyshare.com/d/fVKL7Zw3/2515459/07%20-%20Fila%20Brazilia%20-%20Subtle%20body.mp3"
+    name: "Avril 14th",
+    artist: "Aphex Twin",
+    image: "https://upload.wikimedia.org/wikipedia/pt/thumb/2/26/Drukqs.jpeg/220px-Drukqs.jpeg",
+    path: "https://www16.zippyshare.com/d/llGTaYJF/4/1-09%20Avril%2014th.mp3"
   }
   ,
   {
